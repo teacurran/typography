@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 964683349
-ModificationTime: 1424674290
+ModificationTime: 1424725435
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3024,7 +3024,7 @@ EndChar
 StartChar: Z
 Encoding: 90 90 46
 Width: 617
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -3087,29 +3087,29 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-383 577 m 2
- 383 601.666666667 388.333333333 625.666666667 399 649 c 0
- 407.666666667 668.333333333 420.333333333 684 437 696 c 0
- 438.333333333 696.666666667 483 724.666666667 571 780 c 1
- 567 786 l 1
- 160 612 l 1
- 178 608 l 1
- 203.333333333 615.333333333 223.666666667 619 239 619 c 0
- 263 619 279.666666667 609 289 589 c 0
- 296.333333333 571.666666667 300 540.333333333 300 495 c 2
- 300 59 l 2
- 300 15 296.333333333 -15.3333333333 289 -32 c 0
- 281 -50.6666666667 265.333333333 -60 242 -60 c 0
- 226.666666667 -60 205.333333333 -56 178 -48 c 1
- 160 -53 l 1
- 567 -231 l 1
- 571 -225 l 1
- 537.666666667 -205.666666667 493 -178 437 -142 c 0
- 420.333333333 -129.333333333 407.666666667 -113.666666667 399 -95 c 0
- 388.333333333 -71 383 -47 383 -23 c 2
- 383 577 l 2
+383 577 m 6
+ 383 -23 l 6
+ 383 -47 388 -71 399 -95 c 4
+ 408 -114 420 -129 437 -142 c 4
+ 493 -178 571 -225 571 -225 c 5
+ 567 -231 l 5
+ 160 -53 l 5
+ 178 -48 l 5
+ 178 -48 227 -60 242 -60 c 4
+ 265 -60 281 -51 289 -32 c 4
+ 296 -15 300 15 300 59 c 6
+ 300 495 l 6
+ 300 540 296 572 289 589 c 4
+ 280 609 263 619 239 619 c 4
+ 224 619 178 608 178 608 c 5
+ 160 612 l 5
+ 567 786 l 5
+ 571 780 l 5
+ 437 696 l 6
+ 420 684 408 668 399 649 c 4
+ 388 626 383 602 383 577 c 6
 EndSplineSet
-Validated: 524297
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -3125,16 +3125,16 @@ SplineSet
  371 0 l 1
  290 0 l 1
  290 15 l 1
- 300 17 305.333333333 23.6666666667 306 35 c 1
+ 300 17 305 24 306 35 c 1
  69 544 l 1
  25 574 l 1
  25 647 l 1
  106 646 l 1
  106 633 l 1
- 96 630.333333333 90.6666666667 623.333333333 90 612 c 1
+ 96 630 91 623 90 612 c 1
  328 104 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 74 -53 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -54 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -54 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 63 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 -126 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 39 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -179 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -202 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -221 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 -237 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -122 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -125 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -98 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -96 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 -97 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -145 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 -181 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -86 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 26 -67 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -131 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -86 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -85 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -281 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -180 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -156 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -89 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -161 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 11 -187 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 10 -202 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -131 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -197 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
