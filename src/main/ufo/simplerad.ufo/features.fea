@@ -1,0 +1,98 @@
+languagesystem latn dflt;
+
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \slash \w -141;
+    pos \slash \slash -162;
+    pos \zero \one -42;
+    pos \two \three -21;
+    pos \three \four -49;
+    pos \four \five -42;
+    pos \six \nine -99;
+    pos \six \seven -113;
+    pos \seven \eight -57;
+    pos \eight \nine -71;
+    pos \nine \six -35;
+    pos \colon \slash -42;
+    pos \J \j -85;
+    pos \P \e -64;
+    pos \Q \q -99;
+    pos \T \z -64;
+    pos \T \y -64;
+    pos \T \t -64;
+    pos \T \r -64;
+    pos \T \q -64;
+    pos \T \p -64;
+    pos \T \o -64;
+    pos \T \n -64;
+    pos \T \m -64;
+    pos \T \g -64;
+    pos \T \f -134;
+    pos \T \e -64;
+    pos \T \d -134;
+    pos \T \c -64;
+    pos \T \b 7;
+    pos \T \a -64;
+    pos \X \x -57;
+    pos \Y \z -92;
+    pos \Y \y -92;
+    pos \Y \r -92;
+    pos \Y \q -92;
+    pos \Y \p -92;
+    pos \Y \o -92;
+    pos \Y \n -92;
+    pos \Y \m -92;
+    pos \Y \g -92;
+    pos \Y \e -92;
+    pos \Y \d -99;
+    pos \Y \c -92;
+    pos \Y \a -92;
+    pos \s \T -57;
+    pos \w \period -64;
+    pos \x \Y -99;
+} kernHorizontalKerninginLatinloo;
+
+feature kern {
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\NULL \CR \space \exclam \quotedbl \numbersign \dollar \percent 
+	\ampersand \quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen 
+	\period \slash \zero \one \two \three \four \five \six \seven \eight \nine \colon 
+	\semicolon \less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O 
+	\P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum 
+	\underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z 
+	\braceleft \bar \braceright \asciitilde \dagger \cent \sterling \section \bullet 
+	\paragraph \germandbls \acute \dieresis \AE \Oslash \yen \ordfeminine 
+	\ordmasculine \ae \oslash \questiondown \exclamdown \florin \guillemotleft 
+	\guillemotright \ellipsis \OE \oe \endash \emdash \quotedblleft \quotedblright 
+	\quoteleft \quoteright \fraction \currency \guilsinglleft \guilsinglright \fi 
+	\fl \daggerdbl \middot \quotesinglbase \quotedblbase \perthousand \dotlessi 
+	\circumflex \tilde \overscore \breve \dotaccent \ring \cedilla \hungarumlaut 
+	\ogonek \caron \Lslash \lslash \Eth \eth \Scaron \scaron \Yacute \yacute \Thorn 
+	\thorn \Zcaron \zcaron \onehalf \onequarter \onesuperior \threequarters 
+	\threesuperior \twosuperior \brokenbar \minus \multiply \Adieresis \Aring 
+	\Ccedilla \Eacute \Ntilde \Odieresis \Udieresis \aacute \agrave \acircumflex 
+	\adieresis \atilde \aring \ccedilla \eacute \egrave \ecircumflex \edieresis 
+	\iacute \igrave \icircumflex \idieresis \ntilde \oacute \ograve \ocircumflex 
+	\odieresis \otilde \uacute \ugrave \ucircumflex \udieresis \degree \registered 
+	\copyright \trademark \notequal \infinity \plusminus \lessequal \greaterequal 
+	\mu \partialdiff \summation \product \pi \integral \Omega \logicalnot \radical 
+	\approxequal \increment \nbspace \Agrave \Atilde \Otilde \divide \lozenge 
+	\ydieresis \Ydieresis \Acircumflex \Ecircumflex \Aacute \Edieresis \Egrave 
+	\Iacute \Icircumflex \Idieresis \Igrave \Oacute \Ocircumflex \apple \Ograve 
+	\Uacute \Ucircumflex \Ugrave \_247 \_248 \Euro ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
