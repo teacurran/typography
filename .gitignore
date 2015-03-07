@@ -1,0 +1,11 @@
+#source control files
+*.svn
+
+# Mac OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+thumbs.db
+
+*.swp
