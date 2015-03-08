@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425785726
-ModificationTime: 1425772676
+ModificationTime: 1425819959
 PfmFamily: 81
 TTFWeight: 100
 TTFWidth: 5
@@ -72,7 +72,7 @@ WinInfo: 0 21 10
 BeginPrivate: 1
 BlueValues 15 [-1 -1 596 598]
 EndPrivate
-BeginChars: 65537 58
+BeginChars: 65537 59
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -135,7 +135,7 @@ StartChar: two
 Encoding: 50 50 2
 GlifName: two
 Width: 747
-Flags: MWO
+Flags: MW
 VStem: 254 132<24 317 317 324> 316 70<200 200 200 317 317 497>
 LayerCount: 2
 Back
@@ -1405,7 +1405,7 @@ SplineSet
  42 38.5 43.25 37.25 45.125 37.25 c 4
  47 37.25 49.5 38.5 52 41 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 54 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -49 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 52 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -286 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -185 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -1489,7 +1489,7 @@ SplineSet
  292 70 l 2xa580
  305 70 316 81 317 95 c 0xa440
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 54 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 52 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -249 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -185 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -1559,7 +1559,7 @@ SplineSet
  361 133 l 2
  375 133 386 122 386 108 c 2x5c80
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 54 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 53 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -237 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -185 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -1632,7 +1632,7 @@ SplineSet
  67 38.5 68.25 37.25 70.125 37.25 c 4x4b
  72 37.25 74.5 38.5 77 41 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 54 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 53 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -231 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -185 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 31 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -1713,7 +1713,7 @@ SplineSet
  70 38.5 71.25 37.25 73.125 37.25 c 0
  75 37.25 77.5 38.5 80 41 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 54 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 38 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 54 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 51 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -258 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -184 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -3160,6 +3160,163 @@ SplineSet
  412 334 446 291 446 244 c 2xd780
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: zero
+Encoding: 48 48 58
+Width: 1000
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Back
+Fore
+SplineSet
+660.001953125 26.77734375 m 1
+ 660.001953125 246.274414062 l 0
+ 660.001953125 256.02734375 651.848632812 264.171875 642.098632812 264.171875 c 0
+ 288.396484375 264.171875 l 0
+ 280.608398438 264.171875 273.579101562 257.939453125 273.579101562 249.361328125 c 0
+ 273.579101562 21.5810546875 l 1
+ 660.001953125 21.5810546875 l 1
+ 660.001953125 27.75390625 660.001953125 16.4365234375 660.001953125 22.609375 c 0
+ 660.001953125 28.7822265625 660.001953125 26.77734375 660.001953125 26.77734375 c 1
+653.829101562 27.75390625 m 1
+ 279.751953125 27.75390625 l 1
+ 279.751953125 249.361328125 l 0
+ 279.751953125 254.358398438 283.837890625 257.999023438 288.396484375 257.999023438 c 0
+ 642.098632812 257.999023438 l 0
+ 648.395507812 257.999023438 653.829101562 252.569335938 653.829101562 246.274414062 c 0
+ 653.829101562 27.75390625 l 1
+428.520507812 58.0029296875 m 2
+ 432.6015625 58.0029296875 437.159179688 60.5859375 437.159179688 65.4052734375 c 0
+ 437.159179688 240.1015625 l 0
+ 437.159179688 244.383789062 433.427734375 248.125 429.135742188 248.125 c 0
+ 343.951171875 248.125 l 0
+ 339.66015625 248.125 335.927734375 244.383789062 335.927734375 240.1015625 c 0
+ 335.927734375 66.0263671875 l 0
+ 335.927734375 61.73828125 339.663085938 58.0029296875 343.951171875 58.0029296875 c 0
+ 428.520507812 58.0029296875 l 2
+428.520507812 64.17578125 m 2
+ 343.951171875 64.17578125 l 0
+ 343.296875 64.17578125 342.100585938 65.3720703125 342.100585938 66.0263671875 c 0
+ 342.100585938 240.1015625 l 0
+ 342.100585938 240.750976562 343.299804688 241.952148438 343.951171875 241.952148438 c 0
+ 429.135742188 241.952148438 l 0
+ 429.787109375 241.952148438 430.986328125 240.750976562 430.986328125 240.1015625 c 0
+ 430.986328125 65.4052734375 l 0
+ 430.986328125 65.2939453125 430.61328125 64.17578125 428.520507812 64.17578125 c 2
+762.46875 312.940429688 m 2
+ 773.338867188 312.940429688 782.952148438 321.706054688 782.216796875 333.500976562 c 1
+ 782.409179688 327.331054688 782.223632812 327.13671875 782.223632812 333.309570312 c 0
+ 782.223632812 755.534179688 l 1
+ 172.962890625 755.534179688 l 1
+ 172.962890625 333.309570312 l 0
+ 172.962890625 321.67578125 182.430664062 312.940429688 193.33203125 312.940429688 c 0
+ 762.46875 312.940429688 l 2
+762.46875 319.11328125 m 2
+ 193.33203125 319.11328125 l 0
+ 185.71484375 319.11328125 179.135742188 325.194335938 179.135742188 333.309570312 c 0
+ 179.135742188 749.361328125 l 1
+ 776.05078125 749.361328125 l 1
+ 776.05078125 333.212890625 l 1
+ 776.056640625 333.1171875 l 0
+ 776.551757812 325.1640625 770.1171875 319.11328125 762.46875 319.11328125 c 2
+127.284179688 675.284179688 m 1
+ 127.284179688 708 l 1
+ 160 708 l 1
+ 160 675.284179688 l 1
+ 127.284179688 675.284179688 l 1
+794.567382812 675.284179688 m 1
+ 794.567382812 708 l 1
+ 827.284179688 708 l 1
+ 827.284179688 675.284179688 l 1
+ 794.567382812 675.284179688 l 1
+787.16015625 125.901367188 m 1
+ 803.827148438 125.901367188 l 1
+ 803.827148438 104.9140625 l 1
+ 811.234375 104.9140625 l 1
+ 795.184570312 69.728515625 l 1
+ 779.752929688 104.9140625 l 1
+ 787.16015625 104.9140625 l 1
+ 787.16015625 125.901367188 l 1
+216.787109375 675.901367188 m 1
+ 216.787109375 669.728515625 l 1
+ 738.392578125 669.728515625 l 1
+ 738.392578125 675.901367188 l 1
+ 216.787109375 675.901367188 l 1
+657.530273438 30.83984375 m 1
+ 279.751953125 27.75390625 l 1
+ 279.751953125 249.975585938 l 0
+ 279.751953125 254.452148438 283.298828125 257.999023438 287.775390625 257.999023438 c 0
+ 741.478515625 257.999023438 l 0
+ 745.956054688 257.999023438 749.508789062 254.44921875 749.508789062 249.975585938 c 0
+ 749.508789062 38.2490234375 l 1
+ 721.109375 38.2490234375 l 1
+ 721.109375 30.83984375 l 1
+ 657.530273438 30.83984375 l 1
+660.864257812 24.6669921875 m 1
+ 727.282226562 24.6669921875 l 1
+ 727.282226562 32.076171875 l 1
+ 743.950195312 32.076171875 l 1
+ 743.950195312 24.6669921875 l 1
+ 755.681640625 24.6669921875 l 1
+ 755.681640625 30.83984375 755.681640625 19.5234375 755.681640625 25.6962890625 c 1
+ 755.681640625 249.975585938 l 0
+ 755.681640625 257.84765625 749.346679688 264.171875 741.478515625 264.171875 c 0
+ 287.775390625 264.171875 l 0
+ 279.905273438 264.171875 273.579101562 257.845703125 273.579101562 249.975585938 c 0
+ 273.579101562 21.5810546875 l 1
+ 657.530273438 21.5810546875 l 0
+ 663.703125 21.5810546875 660.864257812 24.6669921875 660.864257812 24.6669921875 c 1
+216.787109375 636.393554688 m 1
+ 216.787109375 630.220703125 l 1
+ 738.392578125 630.220703125 l 1
+ 738.392578125 636.393554688 l 1
+ 216.787109375 636.393554688 l 1
+216.787109375 596.890625 m 1
+ 216.787109375 590.717773438 l 1
+ 738.392578125 590.717773438 l 1
+ 738.392578125 596.890625 l 1
+ 216.787109375 596.890625 l 1
+216.787109375 556.767578125 m 1
+ 216.787109375 550.594726562 l 1
+ 738.392578125 550.594726562 l 1
+ 738.392578125 556.767578125 l 1
+ 216.787109375 556.767578125 l 1
+176.048828125 760.470703125 m 1
+ 109.999023438 760.470703125 l 1
+ 109.999023438 77.2333984375 l 1
+ 154.87109375 24.6669921875 l 1
+ 257.224609375 24.6669921875 l 1
+ 266.483398438 37.0126953125 l 1
+ 273.579101562 37.0126953125 l 1
+ 273.579101562 21.5810546875 l 1
+ 657.530273438 21.5810546875 l 1
+ 279.751953125 27.75390625 l 1
+ 279.751953125 43.185546875 l 1
+ 263.397460938 43.185546875 l 1
+ 254.137695312 30.83984375 l 1
+ 157.717773438 30.83984375 l 1
+ 116.171875 79.509765625 l 1
+ 116.171875 754.297851562 l 1
+ 172.901367188 754.297851562 l 0
+ 176.048828125 760.470703125 l 1
+779.751953125 760.470703125 m 1
+ 839.629882812 754.297851562 l 1
+ 839.629882812 30.83984375 l 1
+ 750.123046875 30.83984375 l 1
+ 750.123046875 38.2490234375 l 1
+ 721.109375 38.2490234375 l 1
+ 721.109375 30.83984375 l 1
+ 657.530273438 30.83984375 l 1
+ 727.282226562 24.6669921875 l 1
+ 727.282226562 32.076171875 l 1
+ 743.950195312 32.076171875 l 1
+ 743.950195312 24.6669921875 l 1
+ 845.801757812 24.6669921875 l 1
+ 845.801757812 760.470703125 l 1
+ 779.751953125 760.470703125 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
