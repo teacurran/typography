@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.notdef</key>
-    <string>_notdef.glif</string>
     <key>one</key>
     <string>one.glif</string>
     <key>two</key>
@@ -118,5 +116,7 @@
     <string>T_.glif</string>
     <key>X</key>
     <string>X_.glif</string>
+    <key>five</key>
+    <string>five.glif</string>
   </dict>
 </plist>

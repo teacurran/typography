@@ -4,7 +4,7 @@ FullName: Bitshift
 FamilyName: bitshift
 Weight: Regular
 Copyright: \\uFFFD 2000 GrilledCheese.com - TeA Curran
-Version: 2015-03-07
+Version: 2015-03-08
 ItalicAngle: 0
 UnderlinePosition: -113
 UnderlineWidth: 20
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425785726
-ModificationTime: 1425822984
+ModificationTime: 1425823153
 PfmFamily: 81
 TTFWeight: 100
 TTFWidth: 5
@@ -61,14 +61,14 @@ OS2UnicodeRanges: 00000001.00000000.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "+AKkA 2000-2015 GrilledCheese.com - Terrence Curran" "" "" "grilledcheese.com - bitshift" "BitShift" "2015-03-07" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2015, Terrence Curran (http://www.grilledcheese.com),+AAoA-with Reserved Font Name bitshift.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "bitshift"
+LangName: 1033 "+AKkA 2000-2015 GrilledCheese.com - Terrence Curran" "" "" "grilledcheese.com - bitshift" "BitShift" "2015-03-08" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2015, Terrence Curran (http://www.grilledcheese.com),+AAoA-with Reserved Font Name bitshift.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "bitshift"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 21 10
+WinInfo: 63 21 10
 BeginPrivate: 1
 BlueValues 15 [-1 -1 596 598]
 EndPrivate
@@ -1137,9 +1137,9 @@ StartChar: V
 Encoding: 86 86 24
 GlifName: V_
 Width: 463
-Flags: HW
-HStem: -1 70<176.198 261.369> 577 20G<125 157.5 361 393>
-VStem: 44 132<69.1976 341.802> 106 70<342 596.616> 264 70<69.8843 164.59> 342 70<227.804 596.616>
+Flags: W
+HStem: -1 70<176.198 263.616> 577 20G<125 157.5 361 393>
+VStem: 44 132<69.1976 341.802> 106 70<342 596.616> 264 70<69.5129 164.59> 342 70<227.804 596.616>
 LayerCount: 2
 Back
 Fore
@@ -1402,9 +1402,9 @@ StartChar: b
 Encoding: 98 98 29
 GlifName: b
 Width: 427
-Flags: HW
-HStem: -1 71<179.18 315.566> -1 38.25<62.0312 86.625> 292 50<179 253.802> 463 133<46.1976 108> 527 69<179.502 291.566>
-VStem: 46 16<37.2509 73 104.251 140 170.367 206> 108 71<342 463> 150 29<117 153.499 184 220.499 251 286.749> 292 70<342 526.56> 317 69<71.7046 223>
+Flags: W
+HStem: -1 71<179.18 315.566> -1 38.25<67.4911 91.625> 292 50<179 253.802> 463 133<46.1976 108> 527 69<179.502 291.566>
+VStem: 46 21<37.2509 73 104.251 140 170.367 206> 108 71<342 463> 155 24<117 153.499 184 220.499 251 286.749> 292 70<342 526.56> 317 69<71.7046 223>
 LayerCount: 2
 Back
 Fore
@@ -1493,15 +1493,15 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-79 174 m 6
+79 174 m 6x08
  157 251 l 5
- 157 283 l 6x9a
+ 157 283 l 6
  157 285.5 156 286.75 154.25 286.75 c 4
  152.5 286.75 150 285.5 147 283 c 6
  69 206 l 5
  69 175 l 6
  69 171.86328125 70.3662109375 170.366210938 72.384765625 170.366210938 c 4
- 74.2275390625 170.366210938 76.6142578125 171.614257812 79 174 c 6
+ 74.2275390625 170.366210938 76.6142578125 171.614257812 79 174 c 6x08
 79 108 m 6
  157 184 l 5
  157 216 l 6
@@ -1520,9 +1520,9 @@ SplineSet
  69 41 l 6
  69 38.5 70.25 37.25 72.125 37.25 c 4
  74 37.25 76.5 38.5 79 41 c 6
-386 108 m 2x5c80
+386 108 m 2x4d
  386 24 l 2
- 386 10 375 -1 361 -1 c 2
+ 386 10 375 -1 361 -1 c 2x8d
  72 -1 l 2
  58 -1 47 10 47 24 c 2
  47 317 l 2
@@ -1533,20 +1533,20 @@ SplineSet
  287 597 l 2
  342 597 386 552 386 497 c 2
  386 400 l 2
- 386 387 375 375 361 375 c 2x5a80
- 343 375 l 2
+ 386 387 375 375 361 375 c 2
+ 343 375 l 2x6c80
  329 375 317 387 317 400 c 2
  317 502 l 2
- 317 516 306 527 292 527 c 2x9d
+ 317 516 306 527 292 527 c 2
  204 527 l 2
  190 527 179 516 179 502 c 2
  179 49 l 1
- 229 49 l 2
+ 229 49 l 2x9c80
  243 49 254 60 254 74 c 2
  254 108 l 2
- 254 122 265 133 279 133 c 2x6c80
+ 254 122 265 133 279 133 c 2
  361 133 l 2
- 375 133 386 122 386 108 c 2x5c80
+ 375 133 386 122 386 108 c 2x4d
 EndSplineSet
 Validated: 1
 Kerns2: 53 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 53 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -237 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 -185 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
@@ -1710,9 +1710,9 @@ StartChar: f
 Encoding: 102 102 33
 GlifName: f
 Width: 403
-Flags: HW
-HStem: -1 38.25<70.0518 94.625> 292 50<178 318.582> 443 154<254.198 385.802> 463 134<46.1976 109> 527 70<178.602 253.802>
-VStem: 47 23<37.2509 73 104.251 140 170.368 206> 109 69<342 463> 158 20<117 153.499 184 220.499 251 286.749> 254 132<443.198 526.786>
+Flags: W
+HStem: -1 38<70.0518 94.625> 292 50<178 318.582> 443 154<254.198 385.802> 463 134<46.1976 109> 527 70<178.602 253.802>
+VStem: 47 23<37.0015 73 104.001 140 170.001 206> 109 69<342 463> 158 20<117 153.999 184 219.999 251 286.999> 254 132<443.198 526.786>
 LayerCount: 2
 Back
 Fore
@@ -1856,9 +1856,9 @@ StartChar: h
 Encoding: 104 104 35
 GlifName: h
 Width: 482
-Flags: HW
-HStem: -1 38.25<66.0518 90.625> 223 119<251.198 313> 292 50<174 249.802> 577 20G<124 157 332 365>
-VStem: 43 23<37.2509 73 104.251 140 170.368 206> 105 69<342 596.616> 154 20<117 153.499 184 220.499 251 286.749> 251 132<223.198 291.616> 313 132<-0.802399 196.802> 313 70<197 223 342 596.616>
+Flags: W
+HStem: -1 38<66.0518 90.625> 223 119<251.198 313> 292 50<174 249.802> 577 20G<124 157 332 365>
+VStem: 43 23<37.0015 73 104.001 140 170.001 206> 105 69<342 596.616> 154 20<117 153.999 184 219.999 251 286.999> 251 132<223.198 291.616> 313 132<-0.802399 196.802> 313 70<197 223 342 596.616>
 LayerCount: 2
 Back
 Fore
@@ -2248,7 +2248,7 @@ StartChar: n
 Encoding: 110 110 41
 GlifName: n
 Width: 586
-Flags: HW
+Flags: W
 HStem: -1 70<330.348 417.652> 527 70<172.348 259.652>
 VStem: 40 20<41 73 108 140 175 206> 148 24<117 149 184 216 251 283> 260 70<69.3479 526.652> 418 70<69.3479 399>
 LayerCount: 2
@@ -2758,7 +2758,7 @@ StartChar: v
 Encoding: 118 118 49
 GlifName: v
 Width: 463
-Flags: HW
+Flags: W
 HStem: -1 70<176.198 263.616> -1 38<68.346 92.625> 577 20G<125 157.5 361 393>
 VStem: 44 24<37.0015 73 104.001 140 170.001 206> 106 70<342 596.616> 156 20<117 153.999 184 219.999 251 286.999> 264 70<69.8843 164.59> 342 70<227.804 596.616>
 LayerCount: 2
@@ -2958,7 +2958,7 @@ StartChar: y
 Encoding: 121 121 52
 GlifName: y
 Width: 369
-Flags: WO
+Flags: W
 HStem: -1 21G<48 175> 254 70<108.602 193.649> 577 20G<57.5 90 293 325>
 VStem: 38 155<-0.802399 196.802> 38 70<197 263 324.198 596.616> 196 70<325.627 419.59> 274 70<481.87 596.616>
 LayerCount: 2
@@ -3159,20 +3159,23 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 57
+GlifName: five
 Width: 1000
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 6<158 254 280 654 660 721 755 840> 32 6<727 744> 37 6<266 274> 58 6<342.14 430.86> 242 6<342.14 430.86> 258 6<281.814 649.82 656 747.379> 313 6<184.349 770.461> 551 6<217 738> 591 6<217 738> 630 6<217 738> 670 6<217 738> 675 33<127 160 795 827> 754 6<116 173 782 840>
+VStem: 110 6<80 754> 127 33<675 708> 173 6<324.359 749> 274 6<28 37 43 256.186> 336 6<64.1403 241.86> 431 6<65 241.86> 654 6<31 253.788> 721 6<31 32> 744 11<31 32> 750 5<38 254.915> 776 6<324.87 749> 787 17<105 126> 795 32<675 708> 840 6<31 754>
 LayerCount: 2
 Back
 Fore
 SplineSet
-654 30 m 1
+654 30 m 1x9fcff920
  654 246 l 2
  654 253 648 258 642 258 c 2
  288 258 l 2
  283 258 280 254 280 250 c 2
  280 28 l 1
- 654 30 l 1
+ 654 30 l 1x9fcff920
 429 58 m 2
  344 58 l 2
  340 58 336 62 336 66 c 2
@@ -3198,35 +3201,35 @@ SplineSet
  179 333 l 2
  179 325 185 319 193 319 c 2
  762 319 l 2
-127 675 m 1
+127 675 m 1x9fdff920
  127 708 l 1
  160 708 l 1
  160 675 l 1
- 127 675 l 1
-795 675 m 1
+ 127 675 l 1x9fdff920
+795 675 m 1x9fdff960
  795 708 l 1
  827 708 l 1
  827 675 l 1
- 795 675 l 1
-787 126 m 1
+ 795 675 l 1x9fdff960
+787 126 m 1x9fcff9a0
  804 126 l 1
- 804 105 l 1
+ 804 105 l 1x9fcff9a0
  811 105 l 1
- 795 70 l 1
+ 795 70 l 1x9fcff960
  780 105 l 1
  787 105 l 1
- 787 126 l 1
-217 676 m 1
+ 787 126 l 1x9fcff9a0
+217 676 m 1x9feff920
  738 676 l 1
  738 670 l 1
  217 670 l 1
- 217 676 l 1
+ 217 676 l 1x9feff920
 727 25 m 1
  660 25 l 1
  660 22 l 1
  274 22 l 1
  274 37 l 1
- 266 37 l 1
+ 266 37 l 1xbfcffd20
  257 25 l 1
  155 25 l 1
  110 77 l 1
@@ -3239,7 +3242,7 @@ SplineSet
  846 25 l 1
  744 25 l 1
  744 32 l 1
- 727 32 l 1
+ 727 32 l 1xdfcffd20
  727 25 l 1
 755 31 m 1
  840 31 l 1
@@ -3261,7 +3264,7 @@ SplineSet
  741 264 l 2
  749 264 756 258 756 250 c 2
  755 31 l 1
-721 38 m 1
+721 38 m 1xdfcffb20
  750 38 l 1
  750 250 l 2
  750 254 745 258 741 258 c 2
@@ -3269,7 +3272,7 @@ SplineSet
  658 255 660 251 660 246 c 2
  660 31 l 1
  721 31 l 1
- 721 38 l 1
+ 721 38 l 1xdfcffb20
 217 636 m 1
  738 636 l 1
  738 630 l 1
