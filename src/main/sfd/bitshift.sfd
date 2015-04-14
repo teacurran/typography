@@ -4,7 +4,7 @@ FullName: Bitshift
 FamilyName: bitshift
 Weight: Regular
 Copyright: \\uFFFD 2000 GrilledCheese.com - TeA Curran
-Version: 2015-03-08
+Version: 2015-04-15
 ItalicAngle: 0
 UnderlinePosition: -113
 UnderlineWidth: 20
@@ -24,7 +24,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425785726
-ModificationTime: 1428687952
+ModificationTime: 1428988790
 PfmFamily: 81
 TTFWeight: 100
 TTFWidth: 5
@@ -62,7 +62,7 @@ OS2UnicodeRanges: 00000001.00000000.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "+AKkA 2000-2015 GrilledCheese.com - Terrence Curran" "" "" "grilledcheese.com - bitshift" "BitShift" "2015-03-08" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2015, Terrence Curran (http://www.grilledcheese.com),+AAoA-with Reserved Font Name bitshift.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "bitshift"
+LangName: 1033 "+AKkA 2000-2015 GrilledCheese.com - Terrence Curran" "" "" "grilledcheese.com - bitshift" "BitShift" "2015-04-15" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2015, Terrence Curran (http://www.grilledcheese.com),+AAoA-with Reserved Font Name bitshift.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "bitshift"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -73,6 +73,7 @@ WinInfo: 21 21 10
 BeginPrivate: 1
 BlueValues 15 [-1 -1 596 598]
 EndPrivate
+TeXData: 1 0 0 307232 153616 102410 626000 1048576 102410 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 257 59
 
 StartChar: one
@@ -3320,139 +3321,141 @@ StartChar: six
 Encoding: 54 54 57
 Width: 994
 VWidth: 0
-Flags: HWO
-HStem: 578.914 20G<641.727 729.2>
-VStem: 234.506 27.5742<551.025 570.662> 678.481 14.2041<225.802 239.052> 792.671 26.7383<676.825 696.65>
+Flags: W
+HStem: 579 20G<640.722 729>
+VStem: 678 15<226 239> 785 25<681 701>
 LayerCount: 3
 Back
 Fore
 SplineSet
-553.204101562 138.736328125 m 1
+553 139 m 1
  592 307 l 2
- 593.3203125 312.485351562 589.247070312 315.279296875 584.236328125 314.140625 c 2
+ 593 312 589 315 584 314 c 2
  295 249 l 2
- 290.822093802 248.059069022 287.560546875 244.356445312 286.806640625 241.22265625 c 2
- 240.322265625 66.630859375 l 1
- 553.204101562 138.736328125 l 1
-370.48046875 118.2421875 m 2
- 299.45703125 102.2109375 l 2
- 296.114257812 101.45703125 293.473481981 103.850921303 294.28125 106.971679688 c 2
- 329.806640625 244.221679688 l 2
- 330.560546875 247.356445312 334.657226562 251.245117188 338 252 c 2
- 407.315429688 267.137695312 l 2
- 410.66015625 267.87890625 413.24609375 265.51171875 412.491210938 262.376953125 c 2
- 378.485351562 125.237304688 l 2
- 377.54296875 121.318359375 373.823242188 118.997070312 370.48046875 118.2421875 c 2
-371.612304688 122.944335938 m 2
- 373.283203125 123.321289062 373.47265625 124.10546875 373.47265625 124.10546875 c 2
- 407.478515625 261.24609375 l 2
- 407.666992188 262.029296875 407.01953125 262.624023438 406.184570312 262.435546875 c 2
- 337.16015625 247.404296875 l 2
- 336.32421875 247.215820312 335.30078125 246.243164062 335.112304688 245.459960938 c 2
- 299.294921875 108.103515625 l 2
- 299.106445312 107.319335938 299.752929688 106.724609375 300.588867188 106.913085938 c 2
- 371.612304688 122.944335938 l 2
-697.953125 385.583007812 m 2
- 704.637695312 387.091796875 711.047314885 393.70078167 712.291992188 399.194335938 c 2
- 784.6796875 726.514648438 l 1
- 305.92578125 616.379882812 l 1
- 213.453125 286.59765625 l 2
- 211.712738024 280.390970778 215.826171875 276.7578125 222.510742188 278.266601562 c 2
- 697.953125 385.583007812 l 2
-251.202148438 549.915039062 m 1
- 258.426757812 575.775390625 l 1
+ 291 248 288 244 287 241 c 2
+ 240 67 l 1
+ 553 139 l 1
+370 118 m 2
+ 299 102 l 2
+ 296 101 293 104 294 107 c 2
+ 330 244 l 2
+ 331 247 335 251 338 252 c 2
+ 407 267 l 2
+ 410 268 413 265 412 262 c 2
+ 378 125 l 2
+ 377 121 373 119 370 118 c 2
+372 123 m 2
+ 374 123 373 124 373 124 c 2
+ 407 261 l 2
+ 407 262 407 262 406 262 c 2
+ 337 247 l 2
+ 336 247 335 246 335 245 c 2
+ 299 108 l 2
+ 299 107 300 107 301 107 c 2
+ 372 123 l 2
+698 386 m 2
+ 705 388 711 394 712 399 c 2
+ 785 727 l 1
+ 306 616 l 1
+ 213 287 l 2
+ 211 281 216 276 223 278 c 2
+ 698 386 l 2
+251 550 m 1
+ 258 576 l 1
  285 582 l 1
- 277.776367188 556.138671875 l 1
- 251.202148438 549.915039062 l 1
-785.26171875 674.96484375 m 1
- 791.485351562 700.825195312 l 1
- 815.223632812 706.860351562 l 1
+ 278 556 l 1
+ 251 550 l 1
+785 675 m 1
+ 791 701 l 1
+ 815 707 l 1
  810 681 l 1
- 785.26171875 674.96484375 l 1
-682.442382812 239.051757812 m 1
- 696.646484375 242.2578125 l 1
- 692.685546875 225.801757812 l 1
- 698.53515625 227.12109375 l 1
- 678.564453125 196.67578125 l 1
- 672.631835938 221.274414062 l 1
- 678.481445312 222.594726562 l 1
- 682.442382812 239.051757812 l 1
-311.896484375 563.559570312 m 1
- 745.231445312 660.823242188 l 1
- 744.099609375 656.12109375 l 1
- 310.764648438 558.857421875 l 1
- 311.896484375 563.559570312 l 1
-623.258789062 139.5859375 m 1
- 567.274414062 126.94921875 l 1
- 566.708984375 124.598632812 l 1
- 244.176757812 51.796875 l 1
- 246.005859375 60.5517578125 l 1
- 239.321289062 59.04296875 l 1
- 230.538085938 50.94140625 l 1
- 145.309570312 31.7041015625 l 1
- 107.515625 72.966796875 l 1
- 258.345703125 611.986328125 l 1
+ 785 675 l 1
+682 239 m 1
+ 697 242 l 1
+ 693 226 l 1
+ 699 227 l 1
+ 679 197 l 1
+ 673 221 l 1
+ 678 223 l 1
+ 682 239 l 1
+312 564 m 1
+ 745 661 l 1
+ 744 656 l 1
+ 311 559 l 1
+ 312 564 l 1
+623 140 m 1
+ 567 127 l 1
+ 567 125 l 1
+ 244 52 l 1
+ 246 61 l 1
+ 239 59 l 1
+ 231 51 l 1
+ 143 32 l 1
+ 108 73 l 1
+ 258 612 l 1
  308 625 l 1
- 307.24609375 621.866210938 l 1
+ 307 622 l 1
  786 732 l 1
- 786.754882812 735.134765625 l 1
- 836.323242188 748.01953125 l 1
+ 787 735 l 1
+ 836 748 l 1
  842 736 l 25
- 722.69140625 162.030273438 l 1
- 637.462890625 142.791992188 l 1
- 638.783203125 148.278320312 l 1
- 624.578125 145.071289062 l 1
- 623.258789062 139.5859375 l 1
-637.786132812 158.569335938 m 1
- 708.809570312 174.600585938 l 1
- 830.177734375 742.185546875 l 1
- 790.63671875 731.564453125 l 1
- 717.305664062 400.326171875 l 2
- 716.237909183 395.616971299 709.35546875 383.709960938 696.821289062 380.880859375 c 2
- 221.37890625 273.565429688 l 2
- 212.1875 271.490234375 205.833160821 276.155609529 208.439453125 285.465820312 c 2
- 301.85546875 619.166992188 l 1
- 262.227539062 608.416015625 l 1
- 113.094726562 76.4501953125 l 1
- 138.947265625 45.9716796875 l 1
- 219.163085938 64.078125 l 1
- 228.946289062 75.1796875 l 1
- 238.137695312 77.25390625 l 1
- 281.661132812 240.388671875 l 2
- 283.169921875 246.657226562 289.317963895 252.480863361 296 254 c 2
- 666.107421875 338.142578125 l 2
- 672.791992188 339.653320312 677.508789062 336.26953125 676 330 c 2
- 637.786132812 158.569335938 l 1
-610.696289062 157.641601562 m 1
- 634.928710938 163.111328125 l 1
- 671.913085938 328.247070312 l 2
- 672.666992188 331.381835938 669.243164062 333.573242188 665.901367188 332.819335938 c 2
- 596.876953125 317.788085938 l 1
- 597.982421875 315.813476562 598.899414062 313.056640625 597.956054688 309.138671875 c 2
- 558.40625 140.651367188 l 1
- 609.376953125 152.15625 l 1
- 610.696289062 157.641601562 l 1
-304.352539062 532.213867188 m 1
- 737.6875 629.4765625 l 1
- 736.555664062 624.774414062 l 1
- 303.220703125 527.51171875 l 1
- 304.352539062 532.213867188 l 1
-296.997070312 501.650390625 m 1
- 730.33203125 598.9140625 l 1
- 729.200195312 594.211914062 l 1
- 295.865234375 496.94921875 l 1
- 296.997070312 501.650390625 l 1
-287.452148438 469.3046875 m 1
- 722.787109375 567.567382812 l 1
- 721.655273438 562.865234375 l 1
- 286.321289062 464.602539062 l 1
- 287.452148438 469.3046875 l 1
+ 723 162 l 1
+ 637 143 l 1
+ 639 148 l 1
+ 625 145 l 1
+ 623 140 l 1
+638 159 m 1
+ 709 175 l 1
+ 830 742 l 1
+ 791 732 l 1
+ 717 400 l 2
+ 716 395 710 384 697 381 c 2
+ 221 274 l 2
+ 212 272 205 276 208 285 c 2
+ 302 619 l 1
+ 262 608 l 1
+ 113 76 l 1
+ 139 46 l 1
+ 219 64 l 1
+ 229 75 l 1
+ 238 77 l 1
+ 282 240 l 2
+ 284 246 289 252 296 254 c 2
+ 666 338 l 2
+ 673 340 678 336 676 330 c 2
+ 638 159 l 1
+611 158 m 1
+ 635 163 l 1
+ 672 328 l 2
+ 673 331 669 334 666 333 c 2
+ 597 318 l 1
+ 598 316 599 313 598 309 c 2
+ 558 141 l 1
+ 609 152 l 1
+ 611 158 l 1
+304 532 m 1
+ 738 629 l 1
+ 737 625 l 1
+ 303 528 l 1
+ 304 532 l 1
+297 502 m 1
+ 730 599 l 1
+ 729 594 l 1
+ 296 497 l 1
+ 297 502 l 1
+287 469 m 1
+ 723 568 l 1
+ 722 563 l 1
+ 286 465 l 1
+ 287 469 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 SplineSet
 373 125 m 1
+ 559 139 l 5
  2532 8662 l 1
- 553 139 l 1025
+ 373 125 l 1025
 EndSplineSet
 EndChar
 
@@ -3460,7 +3463,7 @@ StartChar: seven
 Encoding: 55 55 58
 Width: 1000
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 25 6<158 254 280 654 660 721 755 840> 32 6<727 744> 37 6<266 274> 58 6<342.14 430.86> 242 6<342.14 430.86> 258 6<281.814 649.82 656 747.379> 313 6<184.349 770.461> 551 6<217 738> 591 6<217 738> 630 6<217 738> 670 6<217 738> 675 33<127 160 795 827> 754 6<116 173 782 840>
 VStem: 110 6<80 754> 127 33<675 708> 173 6<324.359 749> 274 6<28 37 43 256.186> 336 6<64.1403 241.86> 431 6<65 241.86> 654 6<31 253.788> 721 6<31 32> 744 11<31 32> 750 5<38 254.915> 776 6<324.87 749> 787 17<105 126> 795 32<675 708> 840 6<31 754>
 LayerCount: 3
@@ -3587,6 +3590,7 @@ SplineSet
  217 551 l 1
  217 557 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar
 EndChars
