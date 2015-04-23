@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1218423840
-ModificationTime: 1429769603
+ModificationTime: 1429769656
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -8495,189 +8495,190 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-535 759 m 5
- 527 751 520 747 514 747 c 4
- 510 747 506 749 503 753 c 5
- 503 759 l 5
- 535 759 l 5
-637 620 m 5
- 629 620 l 5
- 629 622 l 5
- 637 622 l 5
- 637 620 l 5
-675 505 m 4
- 674 504 670 505 664 508 c 4
- 663 508 662 512 662 521 c 5
- 667 519 672 514 675 505 c 4
-666 493 m 5
- 662 493 l 5
- 666 496 l 5
- 666 493 l 5
-659 475 m 4
- 659 474 657 473 652 471 c 5
- 654 468 655 466 655 463 c 4
- 655 459 651 453 643 445 c 4
- 632 436 626 430 625 429 c 4
- 614 426 607 429 604 438 c 4
- 597 463 574 503 535 560 c 5
- 538 562 l 5
- 533 569 521 572 503 572 c 5
- 474 552 437 530 392 506 c 6
- 278 446 l 5
- 275 465 274 486 274 509 c 4
- 274 534 276 569 281 616 c 4
- 286 661 289 694 290 716 c 5
- 283 723 269 727 250 727 c 6
- 245 727 l 6
- 228 727 217 730 212 736 c 5
- 221 745 228 749 233 749 c 4
- 236 749 240 747 245 744 c 5
- 256 747 268 748 283 748 c 4
- 295 748 313 746 336 744 c 132
- 359 742 376 741 388 741 c 4
- 411 741 428 745 439 753 c 5
- 436 759 l 6
- 449 742 467 732 496 729 c 4
- 513 728 540 726 575 723 c 5
- 581 732 590 738 602 739 c 5
- 604 736 605 734 604 734 c 6
- 592 729 l 5
- 600 721 l 5
- 592 714 l 5
- 605 688 616 648 627 595 c 4
- 637 540 648 500 659 475 c 4
-150 709 m 5
- 147 709 144 707 141 703 c 132
- 138 699 135 697 133 697 c 4
- 129 699 124 703 118 709 c 5
- 121 712 125 714 129 714 c 4
- 131 714 135 714 140 712 c 132
- 145 710 148 709 150 709 c 5
-579 260 m 4
- 573 260 567 261 560 263 c 4
- 551 266 548 270 551 275 c 5
- 570 277 l 6
- 570 276 572 272 576 268 c 132
- 580 264 581 261 579 260 c 4
-582 234 m 5
- 558 229 l 5
- 542 243 l 5
- 548 260 l 5
- 582 234 l 5
-1040 -124 m 5
- 1033 -124 l 5
- 1032 -147 1032 -171 1032 -194 c 5
- 1029 -219 1018 -239 1001 -254 c 5
- 932 -257 859 -259 783 -259 c 4
- 709 -259 634 -257 558 -254 c 4
- 557 -254 556 -252 554 -249 c 132
- 552 -246 549 -245 546 -247 c 4
- 535 -253 516 -254 487 -249 c 4
- 482 -246 462 -229 427 -196 c 4
- 404 -175 382 -162 363 -157 c 5
- 375 -152 l 6
- 374 -151 364 -143 344 -130 c 4
- 337 -124 332 -115 331 -102 c 5
- 317 -107 303 -93 290 -60 c 4
- 274 -21 265 -1 262 2 c 5
- 264 11 261 16 253 19 c 5
- 248 14 l 6
- 249 18 245 22 237 26 c 5
- 246 33 250 43 250 57 c 4
- 250 61 249 67 248 74 c 132
- 247 81 247 87 247 91 c 4
- 247 106 254 114 267 115 c 5
- 289 84 323 26 368 -61 c 4
- 407 -136 445 -194 480 -234 c 5
- 512 -235 555 -236 608 -239 c 4
- 665 -242 706 -243 733 -243 c 4
- 791 -243 843 -239 888 -231 c 5
- 931 -172 l 6
- 945 -153 953 -133 956 -112 c 5
- 932 -111 875 -110 786 -111 c 4
- 716 -112 660 -109 617 -102 c 5
- 586 -65 550 -5 509 78 c 4
- 466 164 431 225 404 260 c 5
- 410 282 431 302 466 320 c 4
- 514 344 542 360 551 367 c 4
- 569 382 582 388 590 386 c 5
- 586 381 578 359 567 321 c 4
- 559 294 546 280 528 280 c 4
- 524 280 519 281 513 282 c 5
- 508 277 l 5
- 513 274 516 273 515 273 c 6
- 515 267 l 5
- 512 268 509 266 505 262 c 5
- 510 257 511 251 510 243 c 5
- 507 241 505 237 505 232 c 6
- 505 220 l 6
- 507 221 509 221 511 221 c 4
- 514 221 519 218 524 213 c 132
- 529 208 532 205 534 205 c 260
- 536 205 538 206 540 207 c 5
- 537 202 537 197 539 192 c 4
- 541 186 545 182 551 180 c 5
- 567 159 574 144 572 133 c 4
- 573 132 575 111 576 71 c 4
- 576 60 577 53 580 52 c 5
- 583 55 587 56 590 56 c 4
- 594 56 599 53 606 47 c 4
- 621 34 621 34 621 34 c 6
- 613 41 605 44 597 44 c 4
- 592 44 588 43 584 41 c 5
- 587 32 598 20 616 4 c 4
- 632 -11 641 -24 644 -37 c 5
- 641 -37 640 -38 639 -40 c 4
- 667 -52 667 -52 723 -76 c 4
- 752 -87 780 -93 809 -93 c 4
- 820 -93 833 -92 848 -89 c 4
- 854 -88 870 -83 895 -76 c 4
- 914 -71 930 -68 943 -68 c 4
- 948 -68 953 -68 958 -69 c 5
- 957 -70 958 -72 960 -75 c 5
- 963 -71 968 -69 976 -69 c 4
- 985 -70 990 -70 990 -69 c 5
- 991 -70 993 -71 995 -71 c 260
- 997 -71 1001 -70 1006 -69 c 132
- 1011 -68 1014 -67 1017 -67 c 4
- 1022 -67 1026 -70 1029 -75 c 4
- 1030 -76 1030 -85 1029 -102 c 4
- 1029 -113 1033 -121 1040 -124 c 5
-223 32 m 5
- 205 30 184 29 160 29 c 4
- 121 29 73 32 17 37 c 4
- 16 38 16 44 17 57 c 4
- 18 66 14 71 7 74 c 5
- 15 78 18 89 17 108 c 5
- 11 107 7 109 5 113 c 6
- 2 115 l 5
- 18 128 26 149 27 179 c 4
- 28 220 28 244 29 250 c 4
- 33 293 38 359 44 450 c 4
- 45 451 46 457 46 468 c 5
- 54 491 58 528 58 578 c 132
- 58 628 60 664 66 685 c 4
- 75 720 74 746 129 751 c 4
- 142 752 148 750 148 739 c 5
- 145 736 l 5
- 158 729 l 5
- 141 732 126 733 114 733 c 4
- 99 733 88 731 81 727 c 5
- 68 469 53 246 37 58 c 5
- 56 47 84 41 121 39 c 6
- 210 34 l 5
- 223 32 l 5
-703 -268 m 5
- 698 -268 l 5
- 698 -266 l 5
- 703 -266 l 5
- 703 -268 l 5
-421 -205 m 5
- 418 -205 l 5
- 418 -201 l 5
- 421 -201 l 5
- 421 -205 l 5
+535 759 m 1
+ 527 751 520 747 514 747 c 0
+ 510 747 506 749 503 753 c 1
+ 503 759 l 1
+ 535 759 l 1
+637 620 m 1
+ 629 620 l 1
+ 629 622 l 1
+ 637 622 l 1
+ 637 620 l 1
+675 505 m 0
+ 674 504 670 505 664 508 c 0
+ 663 508 662 512 662 521 c 1
+ 667 519 672 514 675 505 c 0
+666 493 m 1
+ 662 493 l 1
+ 666 496 l 1
+ 666 493 l 1
+659 475 m 0
+ 659 474 657 473 652 471 c 1
+ 654 468 655 466 655 463 c 0
+ 655 459 651 453 643 445 c 0
+ 632 436 626 430 625 429 c 0
+ 614 426 607 429 604 438 c 0
+ 597 463 574 503 535 560 c 1
+ 538 562 l 1
+ 533 569 521 572 503 572 c 1
+ 474 552 437 530 392 506 c 2
+ 278 446 l 1
+ 275 465 274 486 274 509 c 0
+ 274 534 276 569 281 616 c 0
+ 286 661 289 694 290 716 c 1
+ 283 723 269 727 250 727 c 2
+ 245 727 l 2
+ 228 727 217 730 212 736 c 1
+ 221 745 228 749 233 749 c 0
+ 236 749 240 747 245 744 c 1
+ 256 747 268 748 283 748 c 0
+ 295 748 313 746 336 744 c 128
+ 359 742 376 741 388 741 c 0
+ 411 741 428 745 439 753 c 1
+ 436 759 l 2
+ 449 742 467 732 496 729 c 0
+ 513 728 540 726 575 723 c 1
+ 581 732 590 738 602 739 c 1
+ 604 736 605 734 604 734 c 2
+ 592 729 l 1
+ 600 721 l 1
+ 592 714 l 1
+ 605 688 616 648 627 595 c 0
+ 637 540 648 500 659 475 c 0
+150 709 m 1
+ 147 709 144 707 141 703 c 128
+ 138 699 135 697 133 697 c 0
+ 129 699 124 703 118 709 c 1
+ 121 712 125 714 129 714 c 0
+ 131 714 135 714 140 712 c 128
+ 145 710 148 709 150 709 c 1
+579 260 m 0
+ 573 260 567 261 560 263 c 0
+ 551 266 548 270 551 275 c 1
+ 570 277 l 2
+ 570 276 572 272 576 268 c 128
+ 580 264 581 261 579 260 c 0
+582 234 m 1
+ 558 229 l 1
+ 542 243 l 1
+ 548 260 l 1
+ 582 234 l 1
+1040 -124 m 1
+ 1033 -124 l 1
+ 1032 -147 1032 -171 1032 -194 c 1
+ 1029 -219 1018 -239 1001 -254 c 1
+ 932 -257 859 -259 783 -259 c 0
+ 709 -259 634 -257 558 -254 c 0
+ 557 -254 556 -252 554 -249 c 128
+ 552 -246 549 -245 546 -247 c 0
+ 535 -253 516 -254 487 -249 c 0
+ 482 -246 462 -229 427 -196 c 0
+ 404 -175 382 -162 363 -157 c 1
+ 375 -152 l 2
+ 374 -151 364 -143 344 -130 c 0
+ 337 -124 332 -115 331 -102 c 1
+ 317 -107 303 -93 290 -60 c 0
+ 274 -21 265 -1 262 2 c 1
+ 264 11 261 16 253 19 c 1
+ 248 14 l 2
+ 249 18 245 22 237 26 c 1
+ 246 33 250 43 250 57 c 0
+ 250 61 249 67 248 74 c 128
+ 247 81 247 87 247 91 c 0
+ 247 106 254 114 267 115 c 1
+ 289 84 323 26 368 -61 c 0
+ 407 -136 445 -194 480 -234 c 1
+ 512 -235 555 -236 608 -239 c 0
+ 665 -242 706 -243 733 -243 c 0
+ 791 -243 843 -239 888 -231 c 1
+ 931 -172 l 2
+ 945 -153 953 -133 956 -112 c 1
+ 932 -111 875 -110 786 -111 c 0
+ 716 -112 660 -109 617 -102 c 1
+ 586 -65 550 -5 509 78 c 0
+ 466 164 431 225 404 260 c 1
+ 410 282 431 302 466 320 c 0
+ 514 344 542 360 551 367 c 0
+ 569 382 582 388 590 386 c 1
+ 586 381 578 359 567 321 c 0
+ 559 294 546 280 528 280 c 0
+ 524 280 519 281 513 282 c 1
+ 508 277 l 1
+ 513 274 516 273 515 273 c 2
+ 515 267 l 1
+ 512 268 509 266 505 262 c 1
+ 510 257 511 251 510 243 c 1
+ 507 241 505 237 505 232 c 2
+ 505 220 l 2
+ 507 221 509 221 511 221 c 0
+ 514 221 519 218 524 213 c 128
+ 529 208 532 205 534 205 c 256
+ 536 205 538 206 540 207 c 1
+ 537 202 537 197 539 192 c 0
+ 541 186 545 182 551 180 c 1
+ 567 159 574 144 572 133 c 0
+ 573 132 575 111 576 71 c 0
+ 576 60 577 53 580 52 c 1
+ 583 55 587 56 590 56 c 0
+ 594 56 598.624364434 52.5317266744 606 47 c 0
+ 610 44 616 38 616 38 c 2
+ 608 45 605 44 597 44 c 0
+ 592 44 588 43 584 41 c 1
+ 587 32 598 20 616 4 c 0
+ 632 -11 641 -24 644 -37 c 1
+ 641 -37 640 -38 639 -40 c 0
+ 667 -52 667 -52 723 -76 c 0
+ 752 -87 780 -93 809 -93 c 0
+ 820 -93 833 -92 848 -89 c 0
+ 854 -88 870 -83 895 -76 c 0
+ 914 -71 930 -68 943 -68 c 0
+ 948 -68 953 -68 958 -69 c 1
+ 957 -70 958 -72 960 -75 c 1
+ 963 -71 968 -69 976 -69 c 0
+ 985 -70 990 -70 990 -69 c 1
+ 991 -70 993 -71 995 -71 c 256
+ 997 -71 1001 -70 1006 -69 c 128
+ 1011 -68 1014 -67 1017 -67 c 0
+ 1022 -67 1026 -70 1029 -75 c 0
+ 1030 -76 1030 -85 1029 -102 c 0
+ 1029 -113 1033 -121 1040 -124 c 1
+223 32 m 1
+ 205 30 184 29 160 29 c 0
+ 121 29 73 32 17 37 c 0
+ 16 38 16 44 17 57 c 0
+ 18 66 14 71 7 74 c 1
+ 15 78 18 89 17 108 c 1
+ 11 107 7 109 5 113 c 2
+ 2 115 l 1
+ 18 128 26 149 27 179 c 0
+ 28 220 28 244 29 250 c 0
+ 33 293 38 359 44 450 c 0
+ 45 451 46 457 46 468 c 1
+ 54 491 58 528 58 578 c 128
+ 58 628 60 664 66 685 c 0
+ 75 720 74 746 129 751 c 0
+ 142 752 148 750 148 739 c 1
+ 145 736 l 1
+ 158 729 l 1
+ 141 732 126 733 114 733 c 0
+ 99 733 88 731 81 727 c 1
+ 68 469 53 246 37 58 c 1
+ 56 47 84 41 121 39 c 2
+ 210 34 l 1
+ 223 32 l 1
+703 -268 m 1
+ 698 -268 l 1
+ 698 -266 l 1
+ 703 -266 l 1
+ 703 -268 l 1
+421 -205 m 1
+ 418 -205 l 1
+ 418 -201 l 1
+ 421 -201 l 1
+ 421 -205 l 1
 EndSplineSet
+Validated: 524321
 Kerns2: 77 -291 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 64 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -357 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -270 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -248 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -316 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -234 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -292 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -98 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 67 78 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -384 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -228 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 64 -263 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -198 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -320 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -244 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 -262 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 88 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 -300 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -260 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -291 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -283 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 -294 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -264 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -262 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -263 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 -64 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -173 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 -255 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -320 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -240 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -105 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -302 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -232 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -270 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -153 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -289 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -254 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 -237 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 31 -68 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 -261 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 29 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -279 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 26 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -319 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 71 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -256 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -344 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -373 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -258 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -402 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -336 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -340 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -417 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -419 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -400 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -328 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -264 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -208 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -293 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 38 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
