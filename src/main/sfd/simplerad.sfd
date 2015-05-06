@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1218390095
-ModificationTime: 1428989399
+ModificationTime: 1429044831
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 126 21 10
+WinInfo: 21 21 10
 BeginPrivate: 2
 BlueValues 23 [-25 0 566 566 633 665]
 OtherBlues 11 [-230 -203]
@@ -3403,13 +3403,17 @@ StartChar: paragraph
 Encoding: 182 182 100
 GlifName: paragraph
 Width: 627
-Flags: MW
+Flags: HMW
 HStem: -138 21G<264.5 289.5> 536 75<314 464 314 464 539 577> 536 113<314 513.5 488.5 539 488.5 577> 628 20G<265 290>
 VStem: 239 75<-101 267 267 267 611 622.5> 464 75<-98 536 611 623.5> 464 150<-98 586.5 536 586.5 561.5 623.5>
 LayerCount: 2
 Back
 Fore
 SplineSet
+239 338 m 1
+ 239 536 l 1
+ 147 536 89 507 89 437 c 0
+ 89 365 141 338 239 338 c 1
 464 -98 m 2xdc
  464 536 l 1
  314 536 l 1
@@ -3417,10 +3421,8 @@ SplineSet
  314 -126 302 -138 277 -138 c 0
  252 -138 239 -126 239 -101 c 2
  239 267 l 1
- 172 267 124 275 93 291 c 0
- 44 316 20 365 20 438 c 0
- 20 502 44 548 93 577 c 0
- 130 599 179 610 239 610 c 1
+ 109 267 20 303 20 438 c 0
+ 20 558 111 610 239 610 c 1
  239 635 252 648 278 648 c 0
  302 648 314 636 314 611 c 1
  464 611 l 1xdc
