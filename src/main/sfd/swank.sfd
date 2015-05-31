@@ -37,6 +37,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2CapHeight: 0
 OS2XHeight: 0
+OS2Vendor: 'GRIL'
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
