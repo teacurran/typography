@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432540265
-ModificationTime: 1432544488
+ModificationTime: 1433108977
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,14 +51,13 @@ Grid
  2000 592 l 1024
   Named: "top"
 EndSplineSet
-BeginChars: 256 4
+BeginChars: 256 6
 
 StartChar: uni0017
 Encoding: 23 23 0
-Width: 1000
+Width: 480
 VWidth: 0
 Flags: HW
-VStem: 150 286
 LayerCount: 2
 Back
 Image: 640 175 3 2560 0 ffffffff 0 800 5.71429 5.71429 0
@@ -28081,6 +28080,71 @@ SplineSet
  185 146 l 2
  192.602539062 151.102539062 191.291992188 158.140625 188 165 c 2
  125.124023438 296.00390625 l 1
+EndSplineSet
+EndChar
+
+StartChar: A
+Encoding: 65 65 4
+Width: 480
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+167.409179688 286 m 1
+ 304.212890625 286 l 1
+ 304 468 l 2
+ 304 502 279.09765625 512 236 512 c 0
+ 193.916015625 512 168 500 168 468 c 2
+ 167.409179688 286 l 1
+385.46875 193 m 1
+ 385 0 l 1
+ 304 0 l 1
+ 304.18359375 193 l 1
+ 167.815429688 193 l 1
+ 168 0 l 1
+ 87 0 l 1
+ 87.134765625 193 l 1
+ 11 193 l 9
+ 51 286 l 17
+ 87.5 286 l 1
+ 87 477 l 2
+ 87 555 131.498046875 594 204 594 c 1
+ 268 594 l 1
+ 341 594 385 555 385 477 c 2
+ 385 286 l 1
+ 459 286 l 9
+ 419 193 l 17
+ 385.46875 193 l 1
+EndSplineSet
+EndChar
+
+StartChar: N
+Encoding: 78 78 5
+Width: 430
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+67 508.770507812 m 1
+ 47.083984375 489.375976562 31.04296875 470.626953125 19 457 c 1
+ 67 403.212890625 l 1
+ 67 0 l 1
+ 148 0 l 1
+ 148 473.890625 l 1
+ 176.0234375 495.353515625 205.515625 512 230 512 c 0
+ 260 512 284 502 284 468 c 2
+ 284 0 l 1
+ 365 0 l 1
+ 365 477 l 2
+ 365 555 321 594 248 594 c 0
+ 211.005859375 594 178.280273438 583.354492188 148 567.5 c 1
+ 148 594 l 1
+ 67 594 l 1
+ 67 508.770507812 l 1
 EndSplineSet
 EndChar
 EndChars
