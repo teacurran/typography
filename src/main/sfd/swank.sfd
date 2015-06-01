@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432540265
-ModificationTime: 1433108977
+ModificationTime: 1433137960
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,11 +51,11 @@ Grid
  2000 592 l 1024
   Named: "top"
 EndSplineSet
-BeginChars: 256 6
+BeginChars: 256 7
 
 StartChar: uni0017
 Encoding: 23 23 0
-Width: 480
+Width: 536
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -28145,6 +28145,37 @@ SplineSet
  148 594 l 1
  67 594 l 1
  67 508.770507812 l 1
+EndSplineSet
+EndChar
+
+StartChar: K
+Encoding: 75 75 6
+Width: 490
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+95 281.883789062 m 1
+ 95 591 l 1
+ 176 591 l 1
+ 176 386.809570312 l 1
+ 334 591 l 1
+ 446 591 l 1
+ 198 274 l 1
+ 282 274 l 2
+ 333 274 386 238 386 183.041015625 c 2
+ 386 -3 l 1
+ 305 -3 l 1
+ 305 146 l 2
+ 305 166 287 194 262 194 c 2
+ 176 194 l 1
+ 176 -3 l 1
+ 95 -3 l 1
+ 95 194 l 1
+ 26.3330078125 194 l 1
+ 95 281.883789062 l 1
 EndSplineSet
 EndChar
 EndChars
