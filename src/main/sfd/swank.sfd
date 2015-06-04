@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Untitled1
-FullName: Untitled1
-FamilyName: Untitled1
+FontName: TauntonSwank
+FullName: Taunton Swank
+FamilyName: TauntonSwank
 Weight: Regular
 Copyright: Copyright (c) 2015, Terrence Curran
 UComments: "2015-5-25: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432540265
-ModificationTime: 1433459432
+ModificationTime: 1433460160
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -38,7 +38,9 @@ HheadDOffset: 1
 OS2CapHeight: 0
 OS2XHeight: 0
 OS2Vendor: 'GRIL'
+MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -46,12 +48,14 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 21 21 10
+BeginPrivate: 0
+EndPrivate
 Grid
 -1000 592 m 0
  2000 592 l 1024
   Named: "top"
 EndSplineSet
-BeginChars: 256 21
+BeginChars: 256 25
 
 StartChar: W
 Encoding: 87 87 0
@@ -234,15 +238,15 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-176 90 m 1
+176 90 m 5
  389 90 l 9
  349 -3 l 17
  41 -3 l 9
  81 90 l 17
- 95 90 l 1
- 95 591 l 1
+ 95 90 l 5
+ 95 591 l 5
  176 591 l 5
- 176 90 l 1
+ 176 90 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -700,7 +704,7 @@ StartChar: X
 Encoding: 88 88 20
 Width: 454
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Fore
@@ -718,6 +722,147 @@ SplineSet
  420 -3 l 1
  324 -3 l 1
  228 190 l 1
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 21
+Width: 376
+VWidth: 0
+Flags: W
+HStem: -3 93<-9 5 86 250.038> 487 93<-9 5 86 247.035> 571 20G<5 86>
+VStem: 5 81<-14 -3 90 487 580 591> 254 81<93.0908 478.157>
+LayerCount: 2
+Back
+Fore
+SplineSet
+86 487 m 1xd8
+ 86 90 l 1
+ 86 90 144 89 186 89 c 0
+ 229 89 254 89 254 123 c 1
+ 254 443 l 1
+ 254 477 229 487 186 487 c 1
+ 86 487 l 1xd8
+86 580 m 1
+ 218 580 l 1
+ 291 580 335 542 335 464 c 1
+ 335 114 l 1
+ 335 36 291 -3 218 -3 c 1
+ 86 -3 l 1
+ 86 -14 l 1
+ 5 -14 l 1
+ 5 -3 l 1
+ -9 -3 l 1
+ -49 90 l 1
+ 5 90 l 1
+ 5 487 l 1
+ -49 487 l 1
+ -9 580 l 1
+ 5 580 l 1xd8
+ 5 591 l 1
+ 86 591 l 1xb8
+ 86 580 l 1
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 22
+Width: 480
+VWidth: 0
+Flags: W
+HStem: -3 93<81 95 176 361.194> 267 93<176 361.875> 487 93<81 95 176 361.194> 571 20G<95 176>
+VStem: 95 81<-14 -3 90 267 360 487 580 591> 372 82<100.656 259.302 368.385 479.571>
+LayerCount: 2
+Back
+Fore
+SplineSet
+95 487 m 1xec
+ 41 487 l 1
+ 81 580 l 1
+ 95 580 l 1xec
+ 95 591 l 1
+ 176 591 l 1xdc
+ 176 580 l 1
+ 337 580 l 2
+ 415 580 454 536 454 463 c 1
+ 454 384 l 1
+ 454 355.559045556 437.080078125 330.51953125 426.215820312 312.6171875 c 5
+ 437.422851562 294.0625 454 270.604827181 454 243 c 1
+ 454 114 l 1
+ 454 41 415 -3 337 -3 c 2
+ 176 -3 l 1
+ 176 -14 l 1
+ 95 -14 l 1
+ 95 -3 l 1
+ 81 -3 l 1
+ 41 90 l 1
+ 95 90 l 1
+ 95 487 l 1xec
+327 360 m 1
+ 360 360 372 395 372 424 c 0
+ 372 457 362 487 328 487 c 2
+ 176 487 l 1
+ 176 360 l 1
+ 327 360 l 1
+176 90 m 1
+ 328 90 l 2
+ 348 90 372 111 372 145 c 2
+ 372 206 l 2
+ 372 235 361.993484236 265.899141386 327.298828125 266.104492188 c 2
+ 176 267 l 1
+ 176 90 l 1
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 23
+Width: 452
+VWidth: 0
+Flags: W
+HStem: -3 21G<187 267> 571 20G<26 129.189 324.811 428>
+VStem: 187 80<-3 280>
+LayerCount: 2
+Back
+Fore
+SplineSet
+187 280 m 1
+ 26 591 l 1
+ 119 591 l 1
+ 227 379 l 1
+ 335 591 l 1
+ 428 591 l 1
+ 267 280 l 1
+ 267 -3 l 1
+ 187 -3 l 1
+ 187 280 l 1
+EndSplineSet
+EndChar
+
+StartChar: Z
+Encoding: 90 90 24
+Width: 342
+VWidth: 0
+Flags: HW
+VStem: 20 294
+LayerCount: 2
+Back
+Fore
+SplineSet
+241 296 m 5
+ 290 400 l 6
+ 309 441 310 476 270 503 c 6
+ 96 620 l 5
+ 52 558 l 5
+ 217 447 l 6
+ 225 442 223 435 220 428 c 6
+ 161 305 l 5
+ 108 193 l 6
+ 89 152 88 117 128 90 c 6
+ 302 -27 l 5
+ 346 35 l 5
+ 181 146 l 6
+ 173 151 175 158 178 165 c 6
+ 241 296 l 5
 EndSplineSet
 EndChar
 EndChars
