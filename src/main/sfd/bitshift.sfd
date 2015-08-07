@@ -153,8 +153,7 @@ StartChar: four
 Encoding: 52 52 2
 GlifName: four
 Width: 747
-Flags: MW
-HStem: 443 255<371 377 371 401>
+Flags: W
 LayerCount: 3
 Back
 Fore
@@ -3455,7 +3454,7 @@ SplineSet
 373 125 m 1
  559 139 l 5
  2532 8662 l 1
- 373 125 l 1025
+ 373 125 l 1
 EndSplineSet
 EndChar
 
