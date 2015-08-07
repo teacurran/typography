@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: ABSURDLYCOMPLEXRAD
-FullName: ABSURDLY COMPLEX RAD
-FamilyName: ABSURDLY COMPLEX RAD
+FontName: absurdlycomplexrad
+FullName: Absurdly Complex Rad
+FamilyName: Absurdly Complex Rad
 Weight: Normal
 Copyright: \\uFFFD copyright 1997 Terrence Curran http://members.aol.com/teacalcium
-Version: 001.001
+Version: 20150807
 ItalicAngle: 0
 UnderlinePosition: -113
 UnderlineWidth: 20
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1438945965
-ModificationTime: 1438951786
+ModificationTime: 1438975563
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -60,7 +60,7 @@ OS2UnicodeRanges: 00000000.00000000.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "+//0A-copyright 1997 Terrence Curran http://members.aol.com/teacalcium" "" "Regular" "pyrs: ABSURDLY COMPLEX RAD: " "ABSURDLYCOMPLEXRAD" "Version 1.000;PS 001.001;hotconv 1.0.56" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "" "" "" "ABSURDLY COMPLEX RAD" "Regular"
+LangName: 1033 "(c)copyright 1997-2015 Terrence Curran http://www.grilledcheese.com" "" "Regular" "gril: ABSURDLY COMPLEX RAD: " "ABSURDLYCOMPLEXRAD" "20150807" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2015, Terrence Curran (http://www.grilledcheese.com),+AAoA-with Reserved Font Name ABSURDLY COMPLEX RAD.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "ABSURDLY COMPLEX RAD" "Regular"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -1132,7 +1132,7 @@ EndChar
 StartChar: L
 Encoding: 76 76 12
 Width: 609
-Flags: WO
+Flags: W
 HStem: -76 35<272.688 466.948> -32 125<362 492> -32 47<257.406 337.261> 37 107<243.676 329.391> 252 27<484.424 548.824> 504 25<3.04297 130 165 180 255 430.957> 551 25<294.172 425> 602 45<66.6191 180 255 371.381> 674 25<111.495 425>
 VStem: 130 35<-59.5547 504 529 567.555> 180 76<-80.5855 -32 148.812 504 529 601> 180 31<45.5167 139.015> 233 107<47.676 133.391> 425 25<576 674> 446 22<172.195 233.024> 492 45<-124.15 -32 93 143.554 160 222.289> 565 22<171.178 233.024>
 LayerCount: 2
@@ -1773,7 +1773,7 @@ EndChar
 StartChar: S
 Encoding: 83 83 19
 Width: 587
-Flags: W
+Flags: WO
 HStem: -119 35<320 393.069> -23 44<320 394.405> 143 45<95.6191 119 154 168.732 209 276.381> 157 92<494.347 571.653> 301 36<318.576 352.306> 454 35<238.445 506.948> 497 46<294.619 372 425 504.289> 567 35<10.0518 115 204 341 416 566.555>
 VStem: 108 93<357.324 565.543> 115 86<528.562 567> 120 35<22.5 143 188 306.938> 285 35<-146.5 -119 -77 -23 31 128.938> 360 29<70.1245 293.537> 402 55<153.404 251.179> 487 92<164.347 241.901>
 LayerCount: 2
