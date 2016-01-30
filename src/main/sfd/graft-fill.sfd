@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: GraftFille
+FontName: GraftFill
 FullName: Graft Fill
 FamilyName: Graft Fill
 Weight: Normal
-Copyright: (C) Copyright 1997-2015 Terrence Curran - grilledcheese.com
+Copyright: (C) Copyright 1997-2016 Terrence Curran - grilledcheese.com
 Version: 2016-01-29
 ItalicAngle: 0
 UnderlinePosition: -113
@@ -15,14 +15,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 270 -1463357204 11991759]
-UniqueID: 4225626
+XUID: [1021 270 -1463357204 9683665]
+UniqueID: 4080356
 FSType: 4
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1454098972
-ModificationTime: 1454081720
+ModificationTime: 1454086041
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -60,7 +60,7 @@ OS2UnicodeRanges: 00000000.00000000.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "(C) Copyright 1997-2016 Terrence Curran - grilledcheese.com" "" "Regular" "grilledcheese.com - Graft Fill" "GraftFill" "2016-01-29" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2016, Terrence Curran (<URL|email>),+AAoA-with Reserved Font Name Graft Fill.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Graft Fill" "Regular"
+LangName: 1033 "" "" "Regular" "gril - Graft Fill" "GraftFill" "2016-01-29" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2016, Terrence Curran (<URL|email>),+AAoA-with Reserved Font Name Graft Fill.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Graft Fill" "Regular"
 Encoding: Mac
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -1764,7 +1764,9 @@ EndChar
 StartChar: a
 Encoding: 97 97 34
 Width: 1038
-Flags: HW
+Flags: W
+HStem: -170 20
+VStem: 353 35<86.5 125.5>
 LayerCount: 2
 Back
 Fore
@@ -1774,7 +1776,9 @@ EndChar
 StartChar: b
 Encoding: 98 98 35
 Width: 838
-Flags: HW
+Flags: W
+HStem: -185 20
+VStem: 257 44<402.5 412>
 LayerCount: 2
 Back
 Fore
@@ -1784,7 +1788,8 @@ EndChar
 StartChar: c
 Encoding: 99 99 36
 Width: 844
-Flags: HW
+Flags: W
+HStem: 321 41<397.5 429>
 LayerCount: 2
 Back
 Fore
@@ -1794,7 +1799,8 @@ EndChar
 StartChar: d
 Encoding: 100 100 37
 Width: 803
-Flags: HW
+Flags: W
+VStem: 184 65<-37 75>
 LayerCount: 2
 Back
 Fore
@@ -1804,7 +1810,8 @@ EndChar
 StartChar: e
 Encoding: 101 101 38
 Width: 892
-Flags: HW
+Flags: W
+HStem: -168 20 333 188<555 643.5> 531 28<469 477.5 469 480>
 LayerCount: 2
 Back
 Fore
@@ -1814,7 +1821,8 @@ EndChar
 StartChar: f
 Encoding: 102 102 39
 Width: 669
-Flags: HW
+Flags: W
+HStem: -170 20
 LayerCount: 2
 Back
 Fore
@@ -1824,7 +1832,8 @@ EndChar
 StartChar: g
 Encoding: 103 103 40
 Width: 999
-Flags: HW
+Flags: W
+VStem: 625 32<520 528.5>
 LayerCount: 2
 Back
 Fore
@@ -1834,7 +1843,9 @@ EndChar
 StartChar: h
 Encoding: 104 104 41
 Width: 851
-Flags: HW
+Flags: W
+HStem: -157 314 734 7 736 20G
+VStem: 112 217 364 166<354 458>
 LayerCount: 2
 Back
 Fore
@@ -1844,7 +1855,9 @@ EndChar
 StartChar: i
 Encoding: 105 105 42
 Width: 564
-Flags: HW
+Flags: W
+HStem: -150 901<114.5 358> 462 223
+VStem: 58 422<24.5 319.5> 358 76
 LayerCount: 2
 Back
 Fore
@@ -1854,7 +1867,8 @@ EndChar
 StartChar: j
 Encoding: 106 106 43
 Width: 693
-Flags: HW
+Flags: W
+HStem: 744 20G
 LayerCount: 2
 Back
 Fore
@@ -1864,7 +1878,9 @@ EndChar
 StartChar: k
 Encoding: 107 107 44
 Width: 879
-Flags: HW
+Flags: W
+HStem: 742 20G<497.5 511>
+VStem: 296 29
 LayerCount: 2
 Back
 Fore
@@ -1874,7 +1890,8 @@ EndChar
 StartChar: l
 Encoding: 108 108 45
 Width: 933
-Flags: HW
+Flags: W
+HStem: 290 31<323 341.5 320.5 371.5>
 LayerCount: 2
 Back
 Fore
@@ -1884,7 +1901,9 @@ EndChar
 StartChar: m
 Encoding: 109 109 46
 Width: 1144
-Flags: HW
+Flags: W
+HStem: -199 20
+VStem: 375 34 605 33<562.5 586.5 562.5 602>
 LayerCount: 2
 Back
 Fore
@@ -1894,7 +1913,9 @@ EndChar
 StartChar: n
 Encoding: 110 110 47
 Width: 802
-Flags: HW
+Flags: W
+HStem: 742 20G
+VStem: 207 33<147.5 163.5 125 187>
 LayerCount: 2
 Back
 Fore
@@ -1904,7 +1925,9 @@ EndChar
 StartChar: o
 Encoding: 111 111 48
 Width: 743
-Flags: HW
+Flags: W
+HStem: -158 908<262 371.5>
+VStem: 62 594<274.5 533>
 LayerCount: 2
 Back
 Fore
@@ -1914,7 +1937,9 @@ EndChar
 StartChar: p
 Encoding: 112 112 49
 Width: 847
-Flags: HW
+Flags: W
+HStem: -438 1140
+VStem: 60 690
 LayerCount: 2
 Back
 Fore
@@ -1924,7 +1949,8 @@ EndChar
 StartChar: q
 Encoding: 113 113 50
 Width: 910
-Flags: HW
+Flags: W
+VStem: 238 29<535.5 545.5>
 LayerCount: 2
 Back
 Fore
@@ -1934,7 +1960,9 @@ EndChar
 StartChar: r
 Encoding: 114 114 51
 Width: 1041
-Flags: HW
+Flags: W
+HStem: 749 20G
+VStem: 451 34 687 37
 LayerCount: 2
 Back
 Fore
@@ -1944,7 +1972,9 @@ EndChar
 StartChar: s
 Encoding: 115 115 52
 Width: 920
-Flags: HW
+Flags: W
+HStem: 287 39
+VStem: 43 780
 LayerCount: 2
 Back
 Fore
@@ -1954,7 +1984,8 @@ EndChar
 StartChar: t
 Encoding: 116 116 53
 Width: 859
-Flags: HW
+Flags: W
+HStem: 751 20G
 LayerCount: 2
 Back
 Fore
@@ -1964,7 +1995,9 @@ EndChar
 StartChar: u
 Encoding: 117 117 54
 Width: 999
-Flags: HW
+Flags: W
+HStem: 747 20G
+VStem: 416 34
 LayerCount: 2
 Back
 Fore
@@ -1974,7 +2007,9 @@ EndChar
 StartChar: v
 Encoding: 118 118 55
 Width: 1035
-Flags: HW
+Flags: W
+HStem: -157 909
+VStem: 36 60
 LayerCount: 2
 Back
 Fore
@@ -1984,7 +2019,8 @@ EndChar
 StartChar: w
 Encoding: 119 119 56
 Width: 1443
-Flags: HW
+Flags: W
+HStem: -201 20
 LayerCount: 2
 Back
 Fore
@@ -1994,7 +2030,8 @@ EndChar
 StartChar: x
 Encoding: 120 120 57
 Width: 981
-Flags: HW
+Flags: W
+HStem: 748 20G
 LayerCount: 2
 Back
 Fore
@@ -2004,7 +2041,8 @@ EndChar
 StartChar: y
 Encoding: 121 121 58
 Width: 743
-Flags: HW
+Flags: W
+HStem: 298 206<487.5 515.5>
 LayerCount: 2
 Back
 Fore
@@ -2014,7 +2052,8 @@ EndChar
 StartChar: z
 Encoding: 122 122 59
 Width: 1035
-Flags: HW
+Flags: W
+HStem: 299 34 741 20G<319.5 358.5>
 LayerCount: 2
 Back
 Fore

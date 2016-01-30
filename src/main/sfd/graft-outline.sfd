@@ -3,7 +3,7 @@ FontName: GraftOutline
 FullName: Graft Outline
 FamilyName: Graft
 Weight: Normal
-Copyright: \\uFFFD 1999 - 2001 TeA Curran http://www.grilledcheese.com
+Copyright: (C) Copyright 1997-2016 Terrence Curran - grilledcheese.com
 Version: 2016-01-29
 ItalicAngle: 0
 UnderlinePosition: -113
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1454098976
-ModificationTime: 1454081342
+ModificationTime: 1454086741
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -54,14 +54,14 @@ OS2StrikeYSize: 20
 OS2StrikeYPos: 300
 OS2CapHeight: 0
 OS2XHeight: 0
-OS2Vendor: 'pyrs'
+OS2Vendor: 'gril'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000000.00000000.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "+//0A-1999 - 2001 TeA Curran http://www.grilledcheese.com" "" "" "Grilledcheese.com Graft Outline 1/29/2016" "GraftOutline" "Version 1.01" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2016, Terrence Curran (<URL|email>),+AAoA-with Reserved Font Name Political Graft.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Graft" "Outline"
-Encoding: Mac
+LangName: 1033 "(C) Copyright 1997-2015 Terrence Curran - grilledcheese.com" "" "" "gril - Graft Fill" "GraftOutline" "2016-01-29" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "Copyright (c) 2016, Terrence Curran (<URL|email>),+AAoA-with Reserved Font Name Political Graft.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Graft" "Outline"
+Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -71,7 +71,7 @@ WinInfo: 0 19 9
 BeginPrivate: 1
 BlueValues 19 [-226 -172 783 812]
 EndPrivate
-BeginChars: 315 61
+BeginChars: 256 59
 
 StartChar: .notdef
 Encoding: 0 1 0
@@ -81,142 +81,13 @@ Flags: W
 LayerCount: 2
 Back
 Fore
-EndChar
-
-StartChar: question
-Encoding: 259 -1 1
-Width: 641
-Flags: MW
-HStem: -138 28<284.5 294.5> -5 34<309.5 316.5 301 331.5> 40 33<286.5 295> 210 27<394.5 404.5> 338 31 714 42<354 413> 716 40 718 38<354 361.5>
-VStem: 221 32 253 35<221.5 227.5 210.5 237> 256 33<76.5 78.5> 360 29<-51.5 -39.5 -51.5 -30.5> 420 34<198.5 200.5>
-LayerCount: 2
-Back
-Fore
-SplineSet
-557 408 m 1xf958
- 477 339 l 2
- 470 334 453 327 428 317 c 0
- 335 279 288 243 288 212 c 0
- 288 209 288 207 289 204 c 1xfcb8
- 326 226 365 237 408 237 c 0
- 439 237 454 226 454 205 c 0
- 454 192 448 178 437 161 c 0
- 426 144 413 122 398 93 c 0
- 394 80 386 67 374 54 c 0
- 372 52 358 49 333 45 c 0
- 308 42 294 40 291 40 c 0
- 282 40 273 43 266 50 c 0
- 259 57 256 66 256 75 c 0
- 256 82 257 88 259 95 c 1
- 247 91 l 2
- 240 89 235 88 234 88 c 0
- 217 88 201 93 186 103 c 0
- 171 114 163 127 159 143 c 0
- 152 175 155 208 169 242 c 2
- 201 320 l 2
- 202 323 205 328 211 337 c 1
- 207 338 200 338 191 338 c 0
- 180 338 168 332 155 320 c 0
- 142 308 134 302 131 302 c 0
- 123 302 119 305 119 312 c 0
- 119 313 122 320 129 333 c 0
- 132 340 134 346 134 351 c 0
- 134 362 130 376 121 393 c 0
- 114 406 108 419 102 432 c 0
- 97 445 90 462 81 485 c 1
- 77 557 102 620 156 675 c 0
- 178 698 212 717 257 733 c 0
- 299 748 337 756 371 756 c 0
- 424 756 475 736 522 696 c 0
- 573 653 598 602 598 543 c 0
- 598 510 584 465 557 408 c 1xf958
-336 -130 m 0
- 317 -135 301 -138 288 -138 c 0xf9b8
- 269 -138 251 -128 236 -107 c 0
- 227 -95 222 -80 221 -63 c 0xf958
- 218 -32 226 -11 245 2 c 0
- 264 20 287 29 315 29 c 0
- 318 29 333 26 360 19 c 0
- 369 17 376 7 382 -9 c 0
- 387 -22 389 -34 389 -45 c 0
- 389 -58 383 -74 372 -93 c 0
- 361 -112 349 -124 336 -130 c 0
-145 420 m 2
- 146 419 l 1
- 151 407 158 389 167 365 c 1
- 198 372 219 371 231 362 c 1
- 237 368 246 380 260 398 c 0
- 266 406 276 418 288 434 c 0xf9b8
- 302 447 316 461 330 473 c 0
- 348 489 364 498 378 501 c 0
- 381 498 384 492 389 485 c 1
- 384 477 379 473 376 472 c 0
- 373 471 370 471 367 470 c 0
- 348 457 331 442 317 424 c 0
- 303 406 277 369 240 313 c 0
- 205 262 188 218 188 182 c 0
- 188 147 203 130 234 130 c 0
- 252 130 272 134 293 141 c 0
- 312 148 331 154 350 161 c 1
- 363 157 367 148 362 133 c 1
- 335 120 l 2
- 304 105 289 91 289 78 c 0xfa58
- 289 75 291 73 295 73 c 0
- 331 74 353 81 362 95 c 0
- 367 108 382 140 413 186 c 2
- 419 195 l 2
- 419 196 419 196 420 196 c 1
- 420 205 412 210 397 210 c 0
- 392 210 378 206 354 198 c 0
- 330 191 315 185 309 182 c 0
- 308 181 303 177 296 170 c 2
- 289 163 l 2
- 286 160 284 159 281 158 c 0
- 274 158 267 168 261 188 c 0
- 256 205 253 217 253 226 c 0xfc58
- 253 248 267 270 295 293 c 0
- 323 316 351 329 378 333 c 0
- 385 336 396 341 409 348 c 0
- 477 371 521 403 540 444 c 0
- 544 453 549 473 556 505 c 0
- 562 534 566 551 566 556 c 2
- 566 556 557 577 539 619 c 0
- 530 632 515 651 494 675 c 0
- 470 702 443 715 413 714 c 0
- 408 714 398 715 385 716 c 0xf9b8
- 372 717 364 718 359 718 c 0xf958
- 348 718 313 709 256 692 c 0
- 245 689 237 687 231 686 c 0
- 226 685 209 670 181 641 c 0
- 154 612 137 592 132 581 c 0
- 123 562 117 537 117 506 c 0
- 117 493 122 477 130 459 c 0
- 140 438 144 425 145 420 c 2
-317 -5 m 0
- 302 -5 288 -9 276 -17 c 0
- 261 -27 253 -39 253 -55 c 0xf9b8
- 253 -67 257 -79 264 -92 c 0
- 271 -104 280 -110 289 -110 c 0xf958
- 306 -110 319 -108 328 -104 c 0
- 349 -95 360 -74 360 -43 c 0
- 360 -18 346 -5 317 -5 c 0
-EndSplineSet
-Kerns2:
-EndChar
-
-StartChar: space
-Encoding: 314 -1 2
-Width: 500
-Flags: W
-LayerCount: 2
-Back
-Fore
+Validated: 1
 EndChar
 
 StartChar: A
-Encoding: 65 65 3
+Encoding: 65 65 1
 Width: 1038
-Flags: W
+Flags: HW
 HStem: -205 35<618 670.5> -49 36<219 267.5> 248 36<832 867 832 876.5> 770 35<585.5 605 584.5 633>
 VStem: 5 40 353 35<86.5 125.5> 469 26 469 97<377 428.5> 663 35<755.5 763.5> 956 42<89.5 134.5 89.5 144.5>
 LayerCount: 2
@@ -231,7 +102,8 @@ SplineSet
  64 -3 46 19 29 50 c 0
  13 82 5 112 5 139 c 0
  5 196 28 249 75 298 c 0
- 122 347 172 369 226 364 c 1
+ 117.648148148 342.462962963 162.766460905 364.694444444 211.102086826 364.694444444 c 0
+ 216.034293553 364.694444444 221 364.462962963 226 364 c 1
  253 465 275 536 291 575 c 0
  325 659 367 717 416 749 c 0
  423 758 450 769 496 783 c 0
@@ -303,10 +175,11 @@ SplineSet
  501 546 504 546 507 546 c 1
  505 509 501 454 495 381 c 0
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: B
-Encoding: 66 66 4
+Encoding: 66 66 2
 Width: 838
 Flags: W
 HStem: -225 41 -142 37<113.5 116.5> 573 234<436.5 461.5 405 463.5> 723 41<148 161.5> 768 37 770 37<405 461.5 405 467.5>
@@ -402,10 +275,11 @@ SplineSet
  531 163 534 141 534 96 c 0
  534 85 528 57 516 13 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: C
-Encoding: 67 67 5
+Encoding: 67 67 3
 Width: 844
 Flags: W
 HStem: -191 35<378.5 429 378.5 449> 321 41<397.5 429> 778 34
@@ -479,10 +353,11 @@ SplineSet
  353 330 l 1
  347 332 342 334 337 336 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: D
-Encoding: 68 68 6
+Encoding: 68 68 4
 Width: 803
 Flags: W
 HStem: -134 30<91.5 172> -113 47<359.5 408.5> 722 34 773 36
@@ -559,10 +434,11 @@ SplineSet
  337 -113 303 -108 270 -99 c 1
  267 -103 259 -107 248 -112 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: E
-Encoding: 69 69 7
+Encoding: 69 69 5
 Width: 892
 Flags: W
 HStem: -200 32<527 584.5 512.5 597> -139 31<182 196.5> 333 34<582.5 641.5 582.5 643.5> 494 27<561.5 583.5> 531 28<469 476.5 469 480> 770 30<488.5 525>
@@ -653,10 +529,11 @@ SplineSet
  213 -108 229 -104 248 -95 c 1
  239 -90 233 -86 230 -83 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: F
-Encoding: 70 70 8
+Encoding: 70 70 6
 Width: 669
 Flags: W
 HStem: -210 40<174.5 198.5 174.5 199> 762 34<422.5 455 364 462.5>
@@ -746,10 +623,11 @@ SplineSet
  573 644 567 675 556 705 c 0
  545 735 534 752 523 755 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: G
-Encoding: 71 71 9
+Encoding: 71 71 7
 Width: 999
 Flags: W
 HStem: -389 37 240 26<565 572.5> 253 39<362.5 394.5 362.5 394.5> 673 32<632 661.5 619 677.5>
@@ -856,10 +734,11 @@ SplineSet
  657 512 655 492 651 468 c 0
  646 435 639 419 631 419 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: H
-Encoding: 72 72 10
+Encoding: 72 72 8
 Width: 851
 Flags: W
 HStem: -189 34 -189 37 40 28<138.5 145> 324 28<600.5 628.5> 729 36<182.5 196> 741 25<85 94.5> 770 20G<254.5 260.5>
@@ -968,10 +847,11 @@ SplineSet
  785 195 768 239 733 273 c 0
  699 307 655 324 602 324 c 0
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: I
-Encoding: 73 73 11
+Encoding: 73 73 9
 Width: 564
 Flags: W
 HStem: -192 42<123.5 132 119 159.5> 685 31<263 284.5> 702 30<166.5 186> 772 20G<308.5 317>
@@ -1058,10 +938,11 @@ SplineSet
  474 248 480 290 480 311 c 0xb680
  480 328 478 344 475 359 c 0
 EndSplineSet
+Validated: 2097157
 EndChar
 
 StartChar: J
-Encoding: 74 74 12
+Encoding: 74 74 10
 Width: 693
 Flags: W
 HStem: -195 32 241 28<228.5 246.5> 259 247<515 546.5> 340 166<515 546> 478 28<515 544.5> 482 24<518.5 528 515 528.5> 494 27<369 380.5 369 389.5 380 380.5 369 424> 710 26<401 435> 775 20G
@@ -1171,10 +1052,11 @@ SplineSet
  585 153 582 164 577 187 c 0
  572 210 569 222 569 223 c 2
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: K
-Encoding: 75 75 13
+Encoding: 75 75 11
 Width: 879
 Flags: W
 HStem: -201 38<457 488.5> 316 28<601.5 633> 762 29<497.5 506.5 489 511>
@@ -1282,10 +1164,11 @@ SplineSet
  365 624 l 1
  357 559 303 474 204 371 c 1
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: L
-Encoding: 76 76 14
+Encoding: 76 76 12
 Width: 933
 Flags: W
 HStem: -185 33<494 564> -183 31 -180 28<469.5 543.5> -58 39<88.5 100.5 78.5 109.5> -49 40 290 31<339.5 341.5 320.5 371.5> 314 31<678.5 689 655.5 711> 753 30<339 368.5>
@@ -1384,10 +1267,11 @@ SplineSet
  307 13 311 29 313 39 c 0
  318 62 323 76 328 82 c 0
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: M
-Encoding: 77 77 15
+Encoding: 77 77 13
 Width: 1144
 Flags: W
 HStem: -237 38<713.5 752.5 713.5 756.5> 241 31<874.5 901> 674 30 740 31<359 421.5 358 422.5>
@@ -1496,10 +1380,11 @@ SplineSet
  1046 121 1028 162 997 193 c 0
  966 225 926 241 876 241 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: N
-Encoding: 78 78 16
+Encoding: 78 78 14
 Width: 802
 Flags: W
 HStem: -136 32<485.5 503.5 482.5 521.5> 604 30<164.5 177.5 154 189.5> 760 31 762 29
@@ -1606,10 +1491,11 @@ SplineSet
  703 98 706 120 706 147 c 0
  706 210 687 248 650 261 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: O
-Encoding: 79 79 17
+Encoding: 79 79 15
 Width: 743
 Flags: W
 HStem: -190 32<270 311.5> -178 38<408.5 414.5> 108 299<350.5 375> 750 40<356.5 371.5>
@@ -1676,10 +1562,11 @@ SplineSet
  386 317 391 291 392 272 c 0
  397 205 400 151 400 111 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: P
-Encoding: 80 80 18
+Encoding: 80 80 16
 Width: 847
 Flags: W
 HStem: -471 33 61 43<229 335.5> 217 37<555 555> 217 329<289.5 555> 652 41<548 575.5 539 582.5> 702 29<371.5 386.5>
@@ -1774,10 +1661,11 @@ SplineSet
  558 495 554 469 547 436 c 0
  537 392 531 366 530 357 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: Q
-Encoding: 81 81 19
+Encoding: 81 81 17
 Width: 910
 Flags: W
 HStem: -473 47 158 37<628.5 675> 269 34<204 239.5> 442 290<262 265> 699 33<269 299.5 262 314.5>
@@ -1877,10 +1765,11 @@ SplineSet
  278 472 280 457 280 446 c 1
  275 443 269 442 261 442 c 0
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: R
-Encoding: 82 82 20
+Encoding: 82 82 18
 Width: 1041
 Flags: W
 HStem: -339 41<617 673 601 716> -139 34<113.5 133.5 113.5 136.5> 239 36<774.5 776 774.5 796> 554 73<461 498> 557 70 744 41<169 175> 768 37
@@ -2002,10 +1891,11 @@ SplineSet
  522 577 520 571 517 564 c 0
  514 557 507 553 498 554 c 2xebd8
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: S
-Encoding: 83 83 21
+Encoding: 83 83 19
 Width: 920
 Flags: W
 HStem: -182 30 -180 28<364.5 440.5> -47 37<606 629.5> -11 41<762.5 806.5> 314 31<215.5 221.5> 791 39<398.5 427.5 371.5 464.5>
@@ -2117,10 +2007,11 @@ SplineSet
  550 96 556 99 561 99 c 0
  568 99 575 93 580 82 c 0
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: T
-Encoding: 84 84 22
+Encoding: 84 84 20
 Width: 859
 Flags: W
 HStem: -181 37<371.5 451> -178 34<455.5 466 405 483.5> 231 37<77 91.5> 419 33<545.5 580> 690 122<377.5 384> 716 34<520.5 523.5>
@@ -2244,10 +2135,11 @@ SplineSet
  676 -44 705 -8 734 38 c 0
  768 93 785 140 785 178 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: U
-Encoding: 85 85 23
+Encoding: 85 85 21
 Width: 999
 Flags: W
 HStem: -199 39<630 684> -193 31 -178 35 -175 32 -172 29 766 31<626 676 620.5 680.5> 767 35<344 357.5>
@@ -2349,10 +2241,11 @@ SplineSet
  902 565 887 615 863 662 c 0
  832 722 796 755 753 760 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: V
-Encoding: 86 86 24
+Encoding: 86 86 22
 Width: 1035
 Flags: W
 HStem: -189 20 -162 35<527 573.5> 209 35 209 122<702.5 744.5> 752 31
@@ -2425,10 +2318,11 @@ SplineSet
  959 582 937 642 892 688 c 0
  848 734 790 755 717 752 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: W
-Encoding: 87 87 25
+Encoding: 87 87 23
 Width: 1443
 Flags: W
 HStem: -166 31<563.5 587> 164 35 164 124<1117.5 1153.5> 702 34
@@ -2533,10 +2427,11 @@ SplineSet
  1355 316 1374 379 1374 463 c 0
  1374 547 1347 611 1293 656 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: X
-Encoding: 88 88 26
+Encoding: 88 88 24
 Width: 981
 Flags: W
 HStem: -195 30<547.5 714.5> -193 28<686 686> 103 20<73.5 93.5> 103 24 255 30<757.5 775.5> 728 29<570.5 626> 774 20G<275 288>
@@ -2633,10 +2528,11 @@ SplineSet
  475 478 478 480 481 480 c 0
  486 480 491 476 496 469 c 2
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: Y
-Encoding: 89 89 27
+Encoding: 89 89 25
 Width: 743
 Flags: W
 HStem: -172 35<269 294.5> 298 206<487.5 515.5> 704 27<363.5 368> 747 32 749 30
@@ -2725,10 +2621,11 @@ SplineSet
  712 746 712 739 712 730 c 0
  712 617 678 520 609 437 c 0
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: Z
-Encoding: 90 90 28
+Encoding: 90 90 26
 Width: 1035
 Flags: W
 HStem: -186 20 -170 47<821 857> -152 40 299 34 309 31 657 36<879 885 879 885.5> 699 34<644.5 686.5> 720 34<805.5 817> 761 30<319.5 335 296.5 358.5>
@@ -2851,10 +2748,11 @@ SplineSet
  413 19 408 24 408 27 c 0
  408 32 413 41 423 56 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 29
+Encoding: 91 91 27
 Width: 424
 Flags: W
 HStem: -185 32<121 133 133 140.5 121 142> -114 27<261.5 288.5> 23 31<207.5 209> 718 30<308.5 310> 764 29<214 220.5>
@@ -2943,10 +2841,11 @@ SplineSet
  220 576 224 578 231 578 c 0
  239 578 244 572 247 559 c 1
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 30
+Encoding: 93 93 28
 Width: 411
 Flags: W
 HStem: -185 20 578 186<172.5 209.5> 773 20G<183 194>
@@ -3035,10 +2934,11 @@ SplineSet
  67 665 77 641 96 613 c 0
  116 585 138 567 161 559 c 1
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 31
+Encoding: 33 33 29
 Width: 308
 Flags: W
 HStem: -178 26<147 148 148 157 140 175.5> -19 33<129 145> 25 37<146.5 158.5 139.5 170> 736 35<113.5 114.5 101 122.5>
@@ -3113,10 +3013,11 @@ SplineSet
  220 -61 210 -44 191 -33 c 0
  175 -24 156 -19 134 -19 c 0
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: comma
-Encoding: 44 44 32
+Encoding: 44 44 30
 Width: 393
 Flags: W
 HStem: -176 49<112 132> 47 49<165.5 224.5>
@@ -3157,10 +3058,11 @@ SplineSet
  244 -160 266 -119 266 -62 c 0
  266 -27 257 0 240 18 c 0
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: period
-Encoding: 46 46 33
+Encoding: 46 46 31
 Width: 341
 Flags: W
 HStem: -194 51<130 134.5> 8 52<149.5 150.5 150 154>
@@ -3195,10 +3097,11 @@ SplineSet
  224 -48 218 -34 207 -19 c 0
  196 -4 184 5 170 6 c 2
 EndSplineSet
+Validated: 2097157
 EndChar
 
 StartChar: question
-Encoding: 63 63 34
+Encoding: 63 63 32
 Width: 641
 Flags: W
 HStem: -138 28<284.5 294.5> -5 34<309.5 316.5 301 331.5> 40 33<286.5 295> 210 27<394.5 404.5> 338 31 714 42<354 413> 716 40 718 38<354 361.5>
@@ -3315,266 +3218,345 @@ SplineSet
  349 -95 360 -74 360 -43 c 0
  360 -18 346 -5 317 -5 c 0
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: o
-Encoding: 111 111 35
+Encoding: 111 111 33
 Width: 743
-Flags: HW
+Flags: W
+HStem: -190 32<270 311.5> -178 38<408.5 414.5> 108 299<350.5 375> 750 40<356.5 371.5>
+VStem: 17 45<507.5 530.5 507 531> 90 44<316 316 316 326> 352 48 656 40<274.5 345>
 LayerCount: 2
 Back
 Fore
-Refer: 17 79 N 1 0 0 1 0 0 2
+Refer: 15 79 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: g
-Encoding: 103 103 36
+Encoding: 103 103 34
 Width: 999
-Flags: HW
+Flags: W
+HStem: -389 37 240 26<565 572.5> 253 39<362.5 394.5 362.5 394.5> 673 32<632 661.5 619 677.5>
+VStem: 31 35<-66 -6.5> 346 42<446.5 469.5 431 473.5> 625 32<520 528.5> 831 32<-48.5 -29.5 -91.5 -22.5> 871 35<505 526 496.5 534> 921 32<636 644.5 626.5 648.5>
 LayerCount: 2
 Back
 Fore
-Refer: 9 71 N 1 0 0 1 0 0 2
+Refer: 7 71 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: r
-Encoding: 114 114 37
+Encoding: 114 114 35
 Width: 1041
-Flags: HW
+Flags: W
+HStem: -339 41<617 673 601 716> -139 34<113.5 133.5 113.5 136.5> 239 36<774.5 776 774.5 796> 554 73<461 498> 557 70 744 41<169 175> 768 37
+VStem: 52 44<-88.5 -87> 136 38<299.5 337.5> 451 34 687 37 692 42 964 44<-46 -18.5>
 LayerCount: 2
 Back
 Fore
-Refer: 20 82 N 1 0 0 1 0 0 2
+Refer: 18 82 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: a
-Encoding: 97 97 38
+Encoding: 97 97 36
 Width: 1038
 Flags: HW
+HStem: -205 35<618 670.5> -49 36<219 267.5> 248 36<832 867 832 876.5> 770 35<585.5 605 584.5 633>
+VStem: 5 40 353 35<86.5 125.5> 469 26 469 97<377 428.5> 663 35<755.5 763.5> 956 42<89.5 134.5 89.5 144.5>
 LayerCount: 2
 Back
 Fore
-Refer: 3 65 N 1 0 0 1 0 0 2
+Refer: 1 65 S 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: f
-Encoding: 102 102 39
+Encoding: 102 102 37
 Width: 669
-Flags: HW
+Flags: W
+HStem: -210 40<174.5 198.5 174.5 199> 762 34<422.5 455 364 462.5>
+VStem: 0 28<423 467 423 488.5> 97 32 103 28<149 175.5> 431 30<-20 48.5> 431 34<34 34 34 48.5> 451 29<283 291.5 282.5 302.5> 573 35<593.5 627.5>
 LayerCount: 2
 Back
 Fore
-Refer: 8 70 N 1 0 0 1 0 0 2
+Refer: 6 70 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: t
-Encoding: 116 116 40
+Encoding: 116 116 38
 Width: 859
-Flags: HW
+Flags: W
+HStem: -181 37<371.5 451> -178 34<455.5 466 405 483.5> 231 37<77 91.5> 419 33<545.5 580> 690 122<377.5 384> 716 34<520.5 523.5>
+VStem: 557 35<584.5 602.5 584.5 617> 785 30<159 172.5 147.5 184.5>
 LayerCount: 2
 Back
 Fore
-Refer: 22 84 N 1 0 0 1 0 0 2
+Refer: 20 84 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: b
-Encoding: 98 98 41
+Encoding: 98 98 39
 Width: 838
-Flags: HW
+Flags: W
+HStem: -225 41 -142 37<113.5 116.5> 573 234<436.5 461.5 405 463.5> 723 41<148 161.5> 768 37 770 37<405 461.5 405 467.5>
+VStem: 50 46<-116 -71.5> 142 42<279.5 312 271.5 336> 257 44<402.5 412> 703 41<499.5 562>
 LayerCount: 2
 Back
 Fore
-Refer: 4 66 N 1 0 0 1 0 0 2
+Refer: 2 66 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: c
-Encoding: 99 99 42
+Encoding: 99 99 40
 Width: 844
-Flags: HW
+Flags: W
+HStem: -191 35<378.5 429 378.5 449> 321 41<397.5 429> 778 34
+VStem: 17 40<198.5 295.5> 189 32<341.5 360.5> 612 37<608.5 638> 759 30 759 32<214.5 232.5>
 LayerCount: 2
 Back
 Fore
-Refer: 5 67 N 1 0 0 1 0 0 2
+Refer: 3 67 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: d
-Encoding: 100 100 43
+Encoding: 100 100 41
 Width: 803
-Flags: HW
+Flags: W
+HStem: -134 30<91.5 172> -113 47<359.5 408.5> 722 34 773 36
+VStem: 9 54 41 39<-75.5 -68 -75.5 -62.5> 140 43 142 41<279.5 311 264 336> 184 65<-37 75>
 LayerCount: 2
 Back
 Fore
-Refer: 6 68 N 1 0 0 1 0 0 2
+Refer: 4 68 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: e
-Encoding: 101 101 44
+Encoding: 101 101 42
 Width: 892
-Flags: HW
+Flags: W
+HStem: -200 32<527 584.5 512.5 597> -139 31<182 196.5> 333 34<582.5 641.5 582.5 643.5> 494 27<561.5 583.5> 531 28<469 476.5 469 480> 770 30<488.5 525>
+VStem: 11 38<550.5 571.5 550.5 581> 120 28 186 29<252 261.5> 264 275 511 28<425.5 442> 607 27 807 37
 LayerCount: 2
 Back
 Fore
-Refer: 7 69 N 1 0 0 1 0 0 2
+Refer: 5 69 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: h
-Encoding: 104 104 45
+Encoding: 104 104 43
 Width: 851
-Flags: HW
+Flags: W
+HStem: -189 34 -189 37 40 28<138.5 145> 324 28<600.5 628.5> 729 36<182.5 196> 741 25<85 94.5> 770 20G<254.5 260.5>
+VStem: 73 31 81 27 81 31<117.5 133 117.5 192> 264 29 336 28 336 30<284.5 288> 505 310<120.5 201.5> 530 24
 LayerCount: 2
 Back
 Fore
-Refer: 10 72 N 1 0 0 1 0 0 2
+Refer: 8 72 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: i
-Encoding: 105 105 46
+Encoding: 105 105 44
 Width: 564
-Flags: HW
+Flags: W
+HStem: -192 42<123.5 132 119 159.5> 685 31<263 284.5> 702 30<166.5 186> 772 20G<308.5 317>
+VStem: 16 42<49.5 63.5 24.5 92.5> 45 39<570.5 593.5 564.5 598.5> 434 39<603.5 658.5 603.5 662> 472 39<-29 -9.5 -44.5 -1> 480 39<300.5 319.5>
 LayerCount: 2
 Back
 Fore
-Refer: 11 73 N 1 0 0 1 0 0 2
+Refer: 9 73 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: j
-Encoding: 106 106 47
+Encoding: 106 106 45
 Width: 693
-Flags: HW
+Flags: W
+HStem: -195 32 241 28<228.5 246.5> 259 247<515 546.5> 340 166<515 546> 478 28<515 544.5> 482 24<518.5 528 515 528.5> 494 27<369 380.5 369 389.5 380 380.5 369 424> 710 26<401 435> 775 20G
+VStem: 4 32<26.5 46.5> 290 28<589 607.5 589 610.5> 326 27 497 30<749 751.5 735.5 754.5> 578 28<332 341> 580 28<419 429.5> 598 28<618.5 641.5 618.5 648.5>
 LayerCount: 2
 Back
 Fore
-Refer: 12 74 N 1 0 0 1 0 0 2
+Refer: 10 74 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: k
-Encoding: 107 107 48
+Encoding: 107 107 46
 Width: 879
-Flags: HW
+Flags: W
+HStem: -201 38<457 488.5> 316 28<601.5 633> 762 29<497.5 506.5 489 511>
+VStem: 41 36 44 33 47 30<340 340> 281 28<556.5 578.5> 296 29 803 28
 LayerCount: 2
 Back
 Fore
-Refer: 13 75 N 1 0 0 1 0 0 2
+Refer: 11 75 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: l
-Encoding: 108 108 49
+Encoding: 108 108 47
 Width: 933
-Flags: HW
+Flags: W
+HStem: -185 33<494 564> -183 31 -180 28<469.5 543.5> -58 39<88.5 100.5 78.5 109.5> -49 40 290 31<339.5 341.5 320.5 371.5> 314 31<678.5 689 655.5 711> 753 30<339 368.5>
+VStem: 11 35<57 101.5> 38 41<617.5 619.5 602.5 643.5> 426 35<607.5 635> 865 34<120.5 127.5 71.5 144.5>
 LayerCount: 2
 Back
 Fore
-Refer: 14 76 N 1 0 0 1 0 0 2
+Refer: 12 76 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: m
-Encoding: 109 109 50
+Encoding: 109 109 48
 Width: 1144
-Flags: HW
+Flags: W
+HStem: -237 38<713.5 752.5 713.5 756.5> 241 31<874.5 901> 674 30 740 31<359 421.5 358 422.5>
+VStem: 375 34 447 43<-61.5 -35> 605 33<562.5 586.5 562.5 602> 831 29<418.5 452.5 404.5 461.5> 934 32<631 645> 1051 49
 LayerCount: 2
 Back
 Fore
-Refer: 15 77 N 1 0 0 1 0 0 2
+Refer: 13 77 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: n
-Encoding: 110 110 51
+Encoding: 110 110 49
 Width: 802
-Flags: HW
+Flags: W
+HStem: -136 32<485.5 503.5 482.5 521.5> 604 30<164.5 177.5 154 189.5> 760 31 762 29
+VStem: 17 32 19 33 207 33<147.5 165.5 125 187> 343 37<656.5 665.5 656.5 675.5> 687 33<328.5 331.5 312 335> 692 34<642.5 660.5> 706 31<137.5 178.5>
 LayerCount: 2
 Back
 Fore
-Refer: 16 78 N 1 0 0 1 0 0 2
+Refer: 14 78 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: p
-Encoding: 112 112 52
+Encoding: 112 112 50
 Width: 847
-Flags: HW
+Flags: W
+HStem: -471 33 61 43<229 335.5> 217 37<555 555> 217 329<289.5 555> 652 41<548 575.5 539 582.5> 702 29<371.5 386.5>
+VStem: 19 41 200 31<371.5 389.5> 687 34<-112 -98 -98 -74.5> 750 36
 LayerCount: 2
 Back
 Fore
-Refer: 18 80 N 1 0 0 1 0 0 2
+Refer: 16 80 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: q
-Encoding: 113 113 53
+Encoding: 113 113 51
 Width: 910
-Flags: HW
+Flags: W
+HStem: -473 47 158 37<628.5 675> 269 34<204 239.5> 442 290<262 265> 699 33<269 299.5 262 314.5>
+VStem: 19 33<475 475> 89 44<-221.5 -174.5> 238 29<535.5 545.5> 504 32<527.5 550.5> 516 37<277.5 293 271.5 293.5> 844 45<-157 -64.5>
 LayerCount: 2
 Back
 Fore
-Refer: 19 81 N 1 0 0 1 0 0 2
+Refer: 17 81 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: s
-Encoding: 115 115 54
+Encoding: 115 115 52
 Width: 920
-Flags: HW
+Flags: W
+HStem: -182 30 -180 28<364.5 440.5> -47 37<606 629.5> -11 41<762.5 806.5> 314 31<215.5 221.5> 791 39<398.5 427.5 371.5 464.5>
+VStem: 9 34<123.5 127.5> 109 33<530.5 585.5 530.5 595.5> 816 42<48 111>
 LayerCount: 2
 Back
 Fore
-Refer: 21 83 N 1 0 0 1 0 0 2
+Refer: 19 83 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: u
-Encoding: 117 117 55
+Encoding: 117 117 53
 Width: 999
-Flags: HW
+Flags: W
+HStem: -199 39<630 684> -193 31 -178 35 -175 32 -172 29 766 31<626 676 620.5 680.5> 767 35<344 357.5>
+VStem: 3 31<560.5 569.5 557 588.5> 17 37 99 31<426.5 429> 416 34 660 35<-32 -13.5 -34.5 2.5> 911 40<457.5 479.5>
 LayerCount: 2
 Back
 Fore
-Refer: 23 85 N 1 0 0 1 0 0 2
+Refer: 21 85 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: v
-Encoding: 118 118 56
+Encoding: 118 118 54
 Width: 1035
-Flags: HW
+Flags: W
+HStem: -189 20 -162 35<527 573.5> 209 35 209 122<702.5 744.5> 752 31
+VStem: -5 41<482.5 494.5 477.5 507.5> 959 32<465.5 509.5 450.5 545>
 LayerCount: 2
 Back
 Fore
-Refer: 24 86 N 1 0 0 1 0 0 2
+Refer: 22 86 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: w
-Encoding: 119 119 57
+Encoding: 119 119 55
 Width: 1443
-Flags: HW
+Flags: W
+HStem: -166 31<563.5 587> 164 35 164 124<1117.5 1153.5> 702 34
+VStem: -5 41<482.5 494.5 477.5 507.5> 1374 32<421 464.5 405.5 505>
 LayerCount: 2
 Back
 Fore
-Refer: 25 87 N 1 0 0 1 0 0 2
+Refer: 23 87 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 
 StartChar: x
-Encoding: 120 120 58
+Encoding: 120 120 56
 Width: 981
-Flags: HW
+Flags: W
+HStem: -195 30<547.5 714.5> -193 28<686 686> 103 20<73.5 93.5> 103 24 255 30<757.5 775.5> 728 29<570.5 626> 774 20G<275 288>
+VStem: 4 28 88 28<615.5 629 614.5 636.5> 312 35<140.5 156> 911 34<53 105>
 LayerCount: 2
 Back
 Fore
-Refer: 26 88 N 1 0 0 1 0 0 2
+Refer: 24 88 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: y
-Encoding: 121 121 59
+Encoding: 121 121 57
 Width: 743
-Flags: HW
+Flags: W
+HStem: -172 35<269 294.5> 298 206<487.5 515.5> 704 27<363.5 368> 747 32 749 30
+VStem: 21 28<31 72.5> 623 36<140 142> 633 26<182.5 209.5 132.5 210.5> 688 24<687.5 719>
 LayerCount: 2
 Back
 Fore
-Refer: 27 89 N 1 0 0 1 0 0 2
+Refer: 25 89 N 1 0 0 1 0 0 2
+Validated: 2097157
 EndChar
 
 StartChar: z
-Encoding: 122 122 60
+Encoding: 122 122 58
 Width: 1035
-Flags: HW
+Flags: W
+HStem: -186 20 -170 47<821 857> -152 40 299 34 309 31 657 36<879 885 879 885.5> 699 34<644.5 686.5> 720 34<805.5 817> 761 30<319.5 335 296.5 358.5>
+VStem: 26 38<523.5 559.5 523.5 564.5> 66 42<-55.5 -27.5 -55.5 -26.5> 821 42<-123 -93.5> 831 40<711 717.5> 900 31<636.5 645.5> 953 40<148 201.5>
 LayerCount: 2
 Back
 Fore
-Refer: 28 90 N 1 0 0 1 0 0 2
+Refer: 26 90 N 1 0 0 1 0 0 2
+Validated: 2097153
 EndChar
 EndChars
 EndSplineFont
