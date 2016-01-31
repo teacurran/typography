@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1438945965
-ModificationTime: 1438975563
+ModificationTime: 1454208423
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 15 8
+WinInfo: 60 15 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 256 27
@@ -193,13 +193,13 @@ SplineSet
  92 294 l 2
  98 317 132 308 126 285 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: B
 Encoding: 66 66 2
 Width: 701
-Flags: HW
+Flags: HWO
 HStem: -138 35<27.0518 125 200 621.555> -90 35<226.445 490> -25 45<200 334> 128 44<233.619 338 513 576> 317 46<201 347> 609 45<8.8501 125 200 365> 675 39<131.54 249>
 VStem: 13 35<42.4453 219.948 261.445 376.555> 20 35<421.052 570.948> 71 35<-51.9482 581.948> 125 75<-103 -25 20 317 363 609> 338 171<65 127 172 245> 350 127<411 550> 503 35<450.138 533> 531 45<309 361.221> 556 35<37 90.5547> 576 45<173 239> 653 31<304 374>
 LayerCount: 2
@@ -213,9 +213,9 @@ SplineSet
  350 363 350 404 350 476 c 0xfe6840
  350 551 365 609 304 609 c 2
 576 279 m 1xfe60c0
- 550 286 531 309 531 336 c 0xfe6240
- 531 362 551 385 576 392 c 1
- 576 279 l 1xfe60c0
+ 576 392 l 1
+ 551 385 531 362 531 336 c 0xfe6240
+ 531 309 550 286 576 279 c 1xfe60c0
 621 387 m 1
  621 284 l 1
  639 294 653 314 653 336 c 0
@@ -291,7 +291,7 @@ SplineSet
  271 675 209 675 145 675 c 0
  122 675 122 714 145 714 c 0
 EndSplineSet
-Validated: 41
+Validated: 33
 EndChar
 
 StartChar: C
