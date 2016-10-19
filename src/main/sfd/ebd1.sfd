@@ -1,0 +1,75 @@
+SplineFontDB: 3.0
+FontName: ebd1
+FullName: ebd1
+FamilyName: ebd1
+Weight: Regular
+Copyright: Copyright (c) 2016, Terrence Curran
+UComments: "2016-10-31: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 270 -1463357204 6636640]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1477922836
+ModificationTime: 1477945907
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2Vendor: 'GRIL'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 54 18 8
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 1
+
+StartChar: slash
+Encoding: 47 47 0
+Width: 1000
+VWidth: 0
+Flags: HO
+LayerCount: 2
+Back
+Fore
+SplineSet
+330 794 m 1
+ 181 374 l 1
+ 297 374 l 1
+ 157 48 l 2
+ 155.094668941 43.5633005346 157 38 161 37 c 0
+ 166.901146449 35.5247133878 170.834030218 38.4676460221 175 45 c 2
+ 469 506 l 1
+ 347 506 l 1
+ 528 794 l 1
+ 330 794 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
