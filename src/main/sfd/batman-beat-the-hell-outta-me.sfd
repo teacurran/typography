@@ -3,8 +3,8 @@ FontName: BatmanBeatthehellOuttaMe
 FullName: Batman Beat the hell Outta Me
 FamilyName: Batman Beat the hell Outta Me
 Weight: Normal
-Copyright: (C) Copyright 1997-2015 Terrence Curran - grilledcheese.com
-Version: 2016-01-28
+Copyright: (C) Copyright 2019 Terrence Curran - grilledcheese.com
+Version: 2019-09-11
 ItalicAngle: 0
 UnderlinePosition: -113
 UnderlineWidth: 20
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1454057041
-ModificationTime: 1568213891
+ModificationTime: 1568214129
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4705,9 +4705,8 @@ EndChar
 StartChar: Q
 Encoding: 81 81 50
 Width: 604
-Flags: HWO
-HStem: -220 20 142 28<363 379> 1021 20G<449 449>
-VStem: 347 30<346 469 346 346> 471 30<317 489 317 317>
+Flags: WO
+HStem: -220 21G<71.6433 94.0513> 1021 20G<478.817 506.143>
 LayerCount: 2
 Fore
 SplineSet
