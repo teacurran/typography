@@ -1,0 +1,3 @@
+#!/usr/local/bin/fontforge
+Open($1)
+Generate("/app/rendered/otf/" + $1:r + ".ttf")
