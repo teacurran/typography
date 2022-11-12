@@ -6,6 +6,8 @@ RUN apt-get update \
         libcairo2-dev libspiro-dev python3-dev ninja-build cmake build-essential gettext \
         apt-transport-https ca-certificates
 
+RUN DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC apt-get -y install tzdata
+
 RUN apt-get install -y software-properties-common
 RUN add-apt-repository ppa:deadsnakes/ppa
 RUN apt-get update

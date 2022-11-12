@@ -3,9 +3,9 @@ FontName: gffft
 FullName: gffft
 FamilyName: gffft
 Weight: Regular
-Copyright: Copyright (c) 2020, Terrence Curran
+Copyright: © copyright 2022 Terrence Curran http://www.grilledcheese.com
 UComments: "2020-1-4: Created with FontForge (http://fontforge.org)"
-Version: 20200203
+Version: 2022.11.12
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -628,7 +628,7 @@ EndChar
 StartChar: c
 Encoding: 99 99 17
 Width: 334
-Flags: HWO
+Flags: HW
 HStem: -2 73.5127<148.504 268.433> 265.487 73.5127<148.185 268.519>
 VStem: 37 73.5596<108.555 226.961>
 LayerCount: 3
