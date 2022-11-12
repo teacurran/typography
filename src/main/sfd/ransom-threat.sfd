@@ -3,7 +3,7 @@ FontName: RansomThreat
 FullName: RansomThreat
 FamilyName: Ransom Threat
 Weight: Book
-Copyright: © copyright 2022 Terrence Curran http://www.grilledcheese.com
+Copyright: © copyright 2022 Terrence Curran grilledcheese.com 
 Version: 2022.11.12
 ItalicAngle: 0
 UnderlinePosition: -123
@@ -586,7 +586,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "+AKkA-Copyright 1997 - 2008 Terrence Curran http://www.grilledcheese.com" "" "Regular" "GrilledCheese.com: RansomThreat" "" "2015-04-18" "" "" "Terrence Curran" "" "" "" "" "" "" "" "" "" "RansomThreat"
+LangName: 1033 "+AKkA copyright 2022 Terrence Curran grilledcheese.com" "" "Regular" "GrilledCheese.com: RansomThreat" "" "2022.11.12" "" "" "Terrence Curran" "" "" "" "" "" "" "" "" "" "RansomThreat"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
