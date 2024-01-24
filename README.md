@@ -5,9 +5,8 @@ Typography work and typefaces designed by Terrence Curran.
 Most of the work contained within this repo consists of fonts I deslgned and distributed on grilledcheese.com
 between 1997 and 2000.
 
-All of my work back then was done on a Mac Quadra 700 or Performa 6200CD.
-I have all of the technology I used back then including the software and even sketches on paper but the files are
-spread out on dozens of 3.5 inch floppies or zip disks.
+All of the original work was done on a Mac Quadra 700 or Performa 6200CD.
+I have all of the technology I used including the software and sketches on paper but the files are spread out on dozens of 3.5 inch floppies or zip disks.
 
 I have begun to undertake the task of attempting to properly archive and organize this work.
 As I do so I am cleaning up and improving a lot of the fonts and releasing them her under the SIL Open Source Font license.
