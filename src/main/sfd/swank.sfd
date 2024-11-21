@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1432540265
-ModificationTime: 1642735257
+ModificationTime: 1729653770
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -65,7 +65,7 @@ StartChar: W
 Encoding: 87 87 0
 Width: 556
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -2 82<144.962 236.141 322.366 414.038> 572 20G<60 141 239 320 418 499> 572 20G<60 141 239 320 418 499>
 VStem: 60 81<84.4075 592> 239 81<83.7598 592> 418 81<84.4075 592>
 CounterMasks: 1 1c
@@ -95,7 +95,6 @@ SplineSet
  334.666666667 -2 316.444444444 -8.66666666667 301.037037037 -8.66666666667 c 0
  293.333333333 -8.66666666667 286.333333333 -7 280 -2 c 1xdc
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: S
@@ -863,7 +862,7 @@ SplineSet
  290.7109375 433.134765625 285.918945312 417.088867188 278 400 c 2
  229 296 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: T
@@ -1180,14 +1179,13 @@ StartChar: w
 Encoding: 119 119 48
 Width: 556
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -2 82<144.962 236.141 322.366 414.038> 572 20G<60 141 60 141 239 320 239 320 418 499 418 499>
 VStem: 60 81<84.4075 592> 239 81<83.7598 592> 418 81<84.4075 592>
 CounterMasks: 1 38
 LayerCount: 2
 Fore
 Refer: 0 87 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: x

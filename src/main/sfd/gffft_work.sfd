@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1578172560
-ModificationTime: 1581367985
+ModificationTime: 1729577148
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 150
-WinInfo: 38 19 9
+WinInfo: 19 19 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -62,7 +62,7 @@ Grid
  2000 396 l 1024
   Named: "x-top"
 EndSplineSet
-BeginChars: 256 18
+BeginChars: 256 19
 
 StartChar: g
 Encoding: 103 103 0
@@ -412,7 +412,7 @@ EndChar
 StartChar: at
 Encoding: 64 64 12
 Width: 502
-Flags: W
+Flags: HW
 HStem: -110 75<143.724 340.489> 38 74<113.402 259.366> 130 75<131.946 296.492> 446 75<132.77 317.532>
 VStem: 9 75<252.362 401.737> 37 75<-9.04053 31.1708> 386 75<3.68359 378.6>
 LayerCount: 3
@@ -602,6 +602,44 @@ SplineSet
  304 232 311 234 318 234 c 0
  338 234 355 215 355 195 c 0
  355 182 349 171 337 164 c 0xfa
+EndSplineSet
+EndChar
+
+StartChar: eight
+Encoding: 56 56 18
+Width: 1000
+Flags: H
+LayerCount: 3
+Fore
+SplineSet
+256 670 m 1049
+318 684 m 1
+ 875 700 l 1
+ 865 546 l 1
+ 814 608 l 1
+ 658 604 l 1
+ 383 616 l 25
+ 302 560 l 1
+ 318 684 l 1
+527 59 m 1049
+747 582 m 25
+ 470 15 l 1049
+129 599 m 25
+ 58 498 l 1049
+65 266 m 25
+ 402 550 l 25
+ 457 302 l 25
+ 242 202 l 25
+ 6 181 l 1
+ 39 98 -117 -309 -28 -309 c 19
+ 190.814453125 -309 416 171 258 84 c 0
+ 258 84 -4.73234820941 242 -190 242 c 0
+ -342 242 -257 390 -235 540 c 25
+ -338 653 l 25
+ -247 636 l 25
+ -187 612 l 25
+ -154 525 l 25
+ -66 579 l 1053
 EndSplineSet
 EndChar
 EndChars
